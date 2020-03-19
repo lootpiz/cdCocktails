@@ -4,8 +4,8 @@ input <- read.table("../data/DECREASE/decrease_input.txt", header=F, sep="\t", s
 colnames(input) <- c("Drug1", "Drug2", "Conc1", "Conc2", "Response", "ConcUnit", "Cell")
 dim(input)
 
-master_drugs <- read.table("../data/resource/master_mapping_drug.txt", header=T, sep="\t")
-master_cells <- read.table("../data/resource/master_mapping_sample.txt", header=T, sep="\t")
+master_drugs <- read.table("../data/mapping/DECREASE_drug.txt", header=T, sep="\t")
+master_cells <- read.table("../data/mapping/DECREASE_sample.txt", header=T, sep="\t")
 
 cell_names <- unique(input[order(input[,7]),7])
 drug_names <- unique(union(input[,1], input[,2]))

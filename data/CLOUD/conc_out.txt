@@ -1,0 +1,285 @@
+CLOUD_ID	DRUG_NAME	CONCENTRATION
+CLOUD001	Desoxycorticosterone Pivalate	0.7
+CLOUD002	Aliskiren	2.5
+CLOUD003	Chloroquine	4.7
+CLOUD004	Dexmedetomidine	0.042
+CLOUD005	Zaleplon	1.6
+CLOUD006	Maprotiline	10.8
+CLOUD007	Isosorbide Dinitrate	0.1
+CLOUD008	Argatroban	6.9
+CLOUD009	Pyridostigmine  Bromide	5.5
+CLOUD010	Azatadine	0.4
+CLOUD011	Pramipexole	0.2
+CLOUD012	Carbachol	0.0037
+CLOUD013	Asenapine	0.1
+CLOUD014	Norcisapride	0.3
+CLOUD015	Amodiaquine	0.7
+CLOUD016	Rosiglitazone	4.2
+CLOUD017	Amiloride	1.1
+CLOUD018	Hydroxychloroquine	1.5
+CLOUD019	Clopidogrel	0.1
+CLOUD020	Tranylcypromine	7.5
+CLOUD021	Oseltamivir	1
+CLOUD022	Oxyphenonium Bromide	0.1
+CLOUD023	Dopamine	2.5
+CLOUD024	Bortezomib	1.6
+CLOUD025	Trifluoperazine	0.1
+CLOUD026	Maraviroc	11.4
+CLOUD027	Ulipristal Acetate	3.9
+CLOUD028	Olmesartan	10
+CLOUD029	Diphenidol	2.6
+CLOUD030	Pargyline	1.9
+CLOUD031	5-Fluorouracil	2.5
+CLOUD032	Memantine	1.3
+CLOUD033	Fluvoxamine	3.9
+CLOUD034	3-Amino-2-Oxazolidinone	49
+CLOUD035	Ibutilide	0.08
+CLOUD036	Proguanil	3
+CLOUD037	Sertraline	3.3
+CLOUD038	Naltrexone	0.4
+CLOUD039	Vecuronium Bromide	3.3
+CLOUD040	Minoxidil	6
+CLOUD041	Busulfan	1.4
+CLOUD042	Trihexyphenidyl	3.3
+CLOUD043	Levonorgestrel	0.24
+CLOUD044	Imipramine	6.2
+CLOUD045	Flumazenil	1.6
+CLOUD046	Chlorambucil	8.1
+CLOUD047	Pentamidine	7.4
+CLOUD048	Canrenone	3
+CLOUD049	Dronedarone	1.3
+CLOUD050	Methyclothiazide	0.5
+CLOUD051	Testosterone	0.2
+CLOUD052	Riluzole	4.3
+CLOUD053	Doxorubicin	0.2
+CLOUD054	Triamterene	2
+CLOUD055	Cevimeline	1.5
+CLOUD056	Bumetanide	1
+CLOUD057	Cytarabine	10.3
+CLOUD058	Loperamide	0.032
+CLOUD059	Nisoldipine	0.013
+CLOUD060	Sumatriptan	1
+CLOUD061	Sitagliptin	4.8
+CLOUD062	Disulfiram	6.7
+CLOUD063	Mitoxantrone	3.4
+CLOUD064	Tamoxifen	6.7
+CLOUD065	Saxagliptin	0.4
+CLOUD066	Ezetimibe	0.9
+CLOUD067	Cisapride	0.9
+CLOUD068	Risperidone	0.1
+CLOUD069	Dihydroergotamine	0.1
+CLOUD070	Dutasteride	0.012
+CLOUD071	Sunitinib	0.7
+CLOUD072	Spironolactone	3
+CLOUD073	Sildenafil	0.5
+CLOUD074	Trioxsalen	0.1
+CLOUD075	Acarbose	2.2
+CLOUD076	Entacapone	6.6
+CLOUD077	Digitoxin	0.2
+CLOUD078	Zalcitabine	2.4
+CLOUD079	Milrinone	5.9
+CLOUD080	Acitretin	7.7
+CLOUD081	Azithromycin	6.7
+CLOUD082	Isoproterenol	11.8
+CLOUD083	Niclosamide	5.3
+CLOUD084	Aripiprazole	3.3
+CLOUD085	Anastrozole	0.5
+CLOUD086	Rifabutin	0.9
+CLOUD087	Mebendazole	1.7
+CLOUD088	Ethinyl Estradiol	0.0023
+CLOUD089	Methotrexate	0.4
+CLOUD090	Eptifibatide	5.3
+CLOUD091	Tacrine	0.3
+CLOUD092	Zafirlukast	0.26
+CLOUD093	Olmesartan Medoxomil	8.1
+CLOUD094	Diethylcarbamazine	6.3
+CLOUD095	Enalaprilat	0.7
+CLOUD096	Tetrabenazine	10
+CLOUD097	Levamisole	11.7
+CLOUD098	Mecamylamine	3.6
+CLOUD099	Procarbazine	13.6
+CLOUD100	Tolvaptan	11.1
+CLOUD101	Endoxifen	6.8
+CLOUD102	6-Mercaptopurine	9.9
+CLOUD103	Dihydroartemisinin	13.2
+CLOUD104	Cerivastatin	0.46
+CLOUD105	Hydralazine	15.6
+CLOUD106	Prednisolone	13.9
+CLOUD107	Ramelteon	0.13
+CLOUD108	Tiagabine	2.7
+CLOUD109	Amoxapine	9.6
+CLOUD110	Terazosin	1
+CLOUD111	Artemether	3.9
+CLOUD112	Vorinostat	9.8
+CLOUD113	Itraconazole	14.2
+CLOUD114	Imatinib	14
+CLOUD115	Azacitidine	15.4
+CLOUD116	Galantamine	20
+CLOUD117	Irinotecan	16.8
+CLOUD118	Nizatidine	7.5
+CLOUD119	Tacrolimus	0.09
+CLOUD120	Tizoxanide	48.8
+CLOUD121	Thalidomide	19.4
+CLOUD122	Dipyridamole	19.8
+CLOUD123	Lubiprostone	0.00064
+CLOUD124	Atenolol	18.8
+CLOUD125	Tolazoline	25
+CLOUD126	Methylergonovine	0.044
+CLOUD127	Minoxidil Sulfate	4.3
+CLOUD128	Cycloguanil	3.4
+CLOUD129	Mefloquine	23.8
+CLOUD130	Lumefantrine	16.9
+CLOUD131	Trimethobenzamide	25.7
+CLOUD132	Dantrolene	23.9
+CLOUD133	Epinephrine	27.3
+CLOUD134	Trazodone	21.5
+CLOUD135	Furazolidone	22.2
+CLOUD136	Hydroxyflutamide	27.1
+CLOUD137	Cisatracurium Besylate	18.1
+CLOUD138	Pentostatin	55.9
+CLOUD139	Docetaxel	22.7
+CLOUD140	Bretylium Tosylate	84.1
+CLOUD141	Lansoprazole	23
+CLOUD142	Flutamide	27.2
+CLOUD143	Albendazole	28.3
+CLOUD144	Trimethoprim	43.1
+CLOUD145	Lacosamide	49.9
+CLOUD146	Abacavir	74.4
+CLOUD147	Iloprost	0.001
+CLOUD148	Metformin	38.4
+CLOUD149	Ranolazine	37.4
+CLOUD150	Lithium Citrate	1081
+CLOUD151	Praziquantel	3.2
+CLOUD152	Vinblastine	0.12
+CLOUD153	Metaxalone	38.4
+CLOUD154	Ezetimibe Glucuronide	0.047
+CLOUD155	Lamotrigine	54.6
+CLOUD156	Enoxacin	62.4
+CLOUD157	Doxapram	66
+CLOUD158	Stanozolol	62.7
+CLOUD159	Miglitol	45.4
+CLOUD160	Tetracycline	45
+CLOUD161	Sulfameter	322.8
+CLOUD162	Carglumic Acid	68.4
+CLOUD163	Nateglinide	66.1
+CLOUD164	Temozolomide	70.6
+CLOUD165	Mycophenolic Acid	78
+CLOUD166	Meclofenamic Acid	81.1
+CLOUD167	Phenprocoumon	64.2
+CLOUD168	Mesalazine	39.2
+CLOUD169	Mitotane	62.5
+CLOUD170	Metronidazole	58.4
+CLOUD171	Isoniazid	73.5
+CLOUD172	Amprenavir	76.2
+CLOUD173	Thiabendazole	89.4
+CLOUD174	Nitazoxanide	48.8
+CLOUD175	Propylthiouracil	90
+CLOUD176	Ribavirin 5-Triphosphate	33
+CLOUD177	D-Cycloserine	98
+CLOUD178	Ribavirin	75.3
+CLOUD179	Hydroxyurea	650
+CLOUD180	Diazoxide	86.7
+CLOUD181	Mephenytoin	343.8
+CLOUD182	Altretamine	98.9
+CLOUD183	Chlorphenesin	83.9
+CLOUD184	Topiramate	76.6
+CLOUD185	Ethambutol	146.1
+CLOUD186	Methyldopa	118.4
+CLOUD187	Zileuton	105.4
+CLOUD188	Carisoprodol	115.2
+CLOUD189	Gabapentin	122.6
+CLOUD190	Nitisinone	118.7
+CLOUD191	Allopurinol	139.6
+CLOUD192	Acetazolamide	90
+CLOUD193	Oxyphenbutazone	308.3
+CLOUD194	4-Aminosalicylic Acid	130.6
+CLOUD195	Trilostane	8.5
+CLOUD196	Everolimus	0.95
+CLOUD197	Paromomycin	332.3
+CLOUD198	Citalopram	3.1
+CLOUD199	Halofantrine	63.9
+CLOUD200	Etomidate	10.3
+CLOUD201	Armodafinil	27.1
+CLOUD202	Metyrosine	71.7
+CLOUD203	Teriflunomide (A77 1726)	66.9
+CLOUD204	Dexchlorpheniramine	0.15
+CLOUD205	Gefitinib	34.7
+CLOUD206	Bosentan	33.6
+CLOUD207	Eflornithine	319.5
+CLOUD208	Cilastatin	153.4
+CLOUD209	Clofarabine	7.5
+CLOUD210	Hydroxymetronidazole	58.4
+CLOUD211	Raltegravir	22.5
+CLOUD212	Clofibric Acid	368
+CLOUD213	Chlorzoxazone	214.1
+CLOUD214	Sulbactam	343
+CLOUD215	Febuxostat	178
+CLOUD216	Cefmenoxime	183.8
+CLOUD217	Rufinamide	202.1
+CLOUD218	Atovaquone	37.9
+CLOUD219	Sorafenib	10.8
+CLOUD220	Oseltamivir Acid	6.5
+CLOUD221	Efavirenz	28.8
+CLOUD222	Cinacalcet	0.4
+CLOUD223	Miglustat	92.6
+CLOUD224	Probucol	12.6
+CLOUD225	Carmustine	0.2
+CLOUD226	Primidone	55
+CLOUD227	Acetohydroxamic Acid	523.5
+CLOUD228	Mebutamate	144.2
+CLOUD229	(+/-)-Sulfinpyrazone	41.8
+CLOUD230	Fenoprofen	1256.2
+CLOUD231	Novobiocin	90.8
+CLOUD232	Quinine	177
+CLOUD233	Ganciclovir	98
+CLOUD234	Pazopanib	132.6
+CLOUD235	Zonisamide	141.4
+CLOUD237	7-Ethyl-10-Hydroxy-Camptothecin	16.8
+CLOUD238	Tinidazole	192.9
+CLOUD239	Felbamate	205.7
+CLOUD240	Acetohexamide	10
+CLOUD241	Dichlorphenamide	214.8
+CLOUD242	Fomepizole	299.6
+CLOUD243	Leflunomide	333.1
+CLOUD244	Probenecid	700.9
+CLOUD245	Pyrazinamide	611.3
+CLOUD246	Baclofen	4.7
+CLOUD247	Clofibrate	325.5
+CLOUD248	Pyrazinoic Acid	604.4
+CLOUD249	Valproic Acid	701.2
+CLOUD250	Carboplatin	334.9
+CLOUD251	Theophylline	555
+CLOUD252	Fosfomycin	1149.7
+CLOUD253	Tranexamic Acid	1590.2
+CLOUD254	Piperazine Hexahydrate	5.8
+CLOUD255	Auranofin	7.25
+CLOUD256	Triflupromazine	1.4
+CLOUD257	6-Hydroxybuspirone	0.05
+CLOUD258	Pinacidil	8.3
+CLOUD259	Sodium Diethyldithiocarbamate Trihydrate	10
+CLOUD260	Amantadine	19.9
+CLOUD261	Succinylcholine Chloride	12.7
+CLOUD262	Buspirone	0.05
+CLOUD263	Phensuximide	52.9
+CLOUD264	Aprepitant	20.7
+CLOUD265	Foscarnet	887
+CLOUD266	Guanadrel	140.7
+CLOUD267	Varenicline	0.24
+CLOUD269	Dideoxycytidine 5-Triphosphate (Ddctp)	2.4
+CLOUD271	Pyrvinium Chloride Dihydrate	50
+CLOUD272	Acamprosate	10
+CLOUD273	Guanfacine	10
+CLOUD274	Levetiracetam	1086.9
+CLOUD275	Liothyronine	0.00003
+CLOUD276	Pamidronic Acid	21.3
+CLOUD277	Thiotepa	2.6
+CLOUD278	Orlistat	0.091
+CLOUD279	Eltrombopag	82.5
+CLOUD280	Ivermectin	0.14
+CLOUD281	Testolactone	10
+CLOUD282	Clofarabine active form	10
+CLOUD283	Palonosetron	10
+CLOUD284	Nitrosoglutathione	1.5
+CLOUD285	Pentolinium Tartrate	6.2
+CLOUD286	Nabilone	0.027
+CLOUD287	Dextromethorphan	0.74

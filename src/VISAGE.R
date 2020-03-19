@@ -4,8 +4,8 @@ all_files <- list.files("../data/VISAGE/")
 cell_names <- sub('.txt', '', all_files)
 drug_names <- c("BI2536", "TH588")
 
-master_drugs <- read.table("../data/resource/master_mapping_drug.txt", header=T, sep="\t", stringsAsFactor=F)
-master_cells <- read.table("../data/resource/master_mapping_sample.txt", header=T, sep="\t", stringsAsFactor=F)
+master_drugs <- read.table("../data/mapping/VISAGE_drug.txt", header=T, sep="\t", stringsAsFactor=F)
+master_cells <- read.table("../data/mapping/VISAGE_sample.txt", header=T, sep="\t", stringsAsFactor=F)
 
 outfile_stats <- c()
 

@@ -1,6 +1,4 @@
 name	standard	id
-BI2536	XQVVPGYIWAGRNI-JOCHJYFZSA-N	164
-TH588	N~4~-Cyclopropyl-6-(2,3-Dichlorophenyl)pyrimidine-2,4-Diamine	2015
 ABT-199	Venetoclax	163
 BIIB021	6-Chloro-9-((4-methoxy-3,5-dimethylpyridin-2-yl)methyl)-9H-purin-2-amine	562
 BMS-754807	Bms-754807	192

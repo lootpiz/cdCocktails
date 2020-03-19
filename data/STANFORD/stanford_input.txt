@@ -1,0 +1,1819 @@
+Compound	DMSO only	DMSO+Cmpnd LFmax	TMZ only	TMZ+Cmpnd
+Carbenoxolone Sodium	0.336	0.223	0.38	0.269
+Glycyrrhizic Acid	0.336	0.352	0.38	0.265
+Dutasteride	0.336	0.336	0.38	0.387
+Finasteride	0.336	0.338	0.38	0.377
+Risperidone 	0.336	0.059	0.38	0.315
+Naratriptan 	0.336	0.147	0.38	0.374
+Vortioxetine (Lu AA21004) HBr	0.336	0.196	0.38	0.422
+Ketanserin 	0.336	0.157	0.38	0.356
+Sumatriptan Succinate	0.336	0.276	0.38	0.467
+SB742457	0.336	0.271	0.38	0.461
+Aripiprazole	0.336	0.117	0.38	0.296
+Atomoxetine HCl	0.336	0.212	0.38	0.378
+Lorcaserin HCl	0.336	0.178	0.38	0.333
+WAY-100635 Maleate	0.336	0.291	0.38	0.438
+Sertraline HCl	0.336	0.220	0.38	0.361
+Amitriptyline HCl 	0.336	0.241	0.38	0.367
+VUF 10166	0.336	0.213	0.38	0.336
+Urapidil HCl	0.336	0.254	0.38	0.374
+Buspirone HCl	0.336	0.217	0.38	0.311
+Eletriptan HBr 	0.336	0.238	0.38	0.330
+BMY 7378	0.336	0.296	0.38	0.379
+Flopropione	0.336	0.264	0.38	0.339
+BRL-54443	0.336	0.292	0.38	0.361
+Serotonin HCl	0.336	0.268	0.38	0.332
+SB269970 HCl	0.336	0.325	0.38	0.380
+Clozapine 	0.336	0.285	0.38	0.334
+SB271046	0.336	0.262	0.38	0.310
+PRX-08066 Maleic acid	0.336	0.245	0.38	0.292
+Pizotifen Malate	0.336	0.333	0.38	0.380
+BRL-15572	0.336	0.245	0.38	0.292
+Prucalopride Succinate	0.336	0.276	0.38	0.309
+Prucalopride	0.336	0.371	0.38	0.391
+Agomelatine	0.336	0.365	0.38	0.385
+Ondansetron HCl	0.336	0.335	0.38	0.355
+Tropisetron	0.336	0.370	0.38	0.390
+Mosapride Citrate	0.336	0.377	0.38	0.386
+Clomipramine HCl 	0.336	0.271	0.38	0.277
+Granisetron HCl	0.336	0.426	0.38	0.423
+Rizatriptan Benzoate 	0.336	0.363	0.38	0.332
+Zolmitriptan 	0.336	0.354	0.38	0.319
+Almotriptan Malate	0.336	0.399	0.38	0.339
+RS-127445	0.336	0.798	0.38	0.373
+Iloperidone	0.336	0.315	0.38	0.362
+Ziprasidone HCl	0.336	0.380	0.38	0.365
+Procaine HCl	0.336	0.328	0.38	0.364
+Asenapine	0.336	0.276	0.38	0.341
+Olanzapine	0.336	0.284	0.38	0.388
+Lamotrigine	0.336	0.347	0.38	0.389
+Cyclandelate	0.336	0.201	0.38	0.357
+Avasimibe	0.336	0.168	0.38	0.376
+Enalapril Maleate	0.336	0.150	0.38	0.362
+Ramipril 	0.336	0.194	0.38	0.316
+Imidapril HCl	0.336	0.323	0.38	0.435
+Quinapril HCl 	0.336	0.258	0.38	0.337
+Captopril	0.336	0.302	0.38	0.367
+Temocapril HCl 	0.336	0.326	0.38	0.382
+Cilazapril Monohydrate 	0.336	0.329	0.38	0.378
+Benazepril HCl	0.336	0.310	0.38	0.317
+Enalaprilat Dihydrate	0.336	0.354	0.38	0.354
+Moexipril HCl	0.336	0.357	0.38	0.280
+Nicotine Ditartrate	0.336	0.163	0.38	0.438
+PNU-120596	0.336	0.283	0.38	0.541
+Arecoline	0.336	0.170	0.38	0.410
+Catharanthine	0.336	0.138	0.38	0.371
+Aceclidine HCl	0.336	0.260	0.38	0.474
+5-hydroxymethyl Tolterodine (PNU 200577, 5-HMT, 5-HM)	0.336	0.168	0.38	0.374
+Ipratropium Bromide	0.336	0.161	0.38	0.351
+Dicyclomine HCl	0.336	0.170	0.38	0.360
+Pilocarpine HCl	0.336	0.220	0.38	0.406
+Acetylcholine Chloride	0.336	0.181	0.38	0.356
+Decamethonium Bromide	0.336	0.170	0.38	0.331
+Adiphenine HCl	0.336	0.168	0.38	0.322
+Atracurium Besylate	0.336	0.218	0.38	0.362
+Fesoterodine Fumarate 	0.336	0.216	0.38	0.354
+Mepenzolate Bromide 	0.336	0.214	0.38	0.348
+Bethanechol chloride	0.336	0.217	0.38	0.351
+Procyclidine HCl 	0.336	0.244	0.38	0.374
+Rivastigmine Tartrate	0.336	0.216	0.38	0.342
+Gallamine Triethiodide 	0.336	0.298	0.38	0.418
+Irsogladine	0.336	0.176	0.38	0.290
+Diphemanil Methylsulfate	0.336	0.268	0.38	0.374
+Solifenacin succinate	0.336	0.212	0.38	0.312
+Orphenadrine Citrate 	0.336	0.276	0.38	0.369
+Tiotropium Bromide hydrate	0.336	0.266	0.38	0.354
+Biperiden HCl	0.336	0.328	0.38	0.410
+Succinylcholine Chloride Dihydrate	0.336	0.286	0.38	0.349
+Benzethonium Chloride	0.336	0.113	0.38	0.175
+Flavoxate HCl	0.336	0.325	0.38	0.384
+Anisotropine Methylbromide 	0.336	0.220	0.38	0.277
+Hyoscyamine	0.336	0.266	0.38	0.318
+Homatropine Bromide	0.336	0.347	0.38	0.398
+Aclidinium Bromide	0.336	0.297	0.38	0.346
+Pancuronium dibromide	0.336	0.299	0.38	0.346
+Tropicamide	0.336	0.316	0.38	0.359
+Oxybutynin chloride	0.336	0.373	0.38	0.406
+Butylscopolamine Bromide	0.336	0.321	0.38	0.353
+Methscopolamine	0.336	0.303	0.38	0.335
+Atropine	0.336	0.312	0.38	0.344
+Vecuronium Bromide	0.336	0.333	0.38	0.360
+Scopolamine HBr	0.336	0.321	0.38	0.336
+Tolterodine tartrate	0.336	0.343	0.38	0.355
+Varenicline Tartrate	0.336	0.360	0.38	0.359
+Otilonium Bromide	0.336	0.360	0.38	0.358
+Cytisine	0.336	0.334	0.38	0.312
+Rocuronium Bromide	0.336	0.336	0.38	0.312
+Darifenacin HBr	0.336	0.355	0.38	0.330
+Trospium chloride 	0.336	0.374	0.38	0.344
+Pyridostigmine Bromide 	0.336	0.414	0.38	0.364
+(-)-Huperzine A (HupA)	0.336	0.223	0.38	0.446
+Tacrine HCl	0.336	0.190	0.38	0.388
+K02288	0.336	0.153	0.38	0.367
+GW788388	0.336	0.197	0.38	0.401
+SB525334	0.336	0.190	0.38	0.375
+SB431542	0.336	0.256	0.38	0.422
+LY2109761	0.336	0.176	0.38	0.342
+RepSox	0.336	0.185	0.38	0.346
+SB505124	0.336	0.495	0.38	0.545
+Pirfenidone	0.336	0.328	0.38	0.372
+LY2157299	0.336	0.260	0.38	0.301
+LY364947	0.336	0.218	0.38	0.401
+Cladribine	0.336	0.706	0.38	0.783
+Istradefylline	0.336	0.258	0.38	0.354
+CGS 21680 HCl	0.336	0.262	0.38	0.322
+Forskolin	0.336	0.135	0.38	0.375
+AdipoRon	0.336	0.161	0.38	0.355
+Carvedilol	0.336	0.143	0.38	0.348
+Carbazochrome sodium sulfonate (AC-17)	0.336	0.191	0.38	0.378
+Isoprenaline HCl	0.336	0.167	0.38	0.350
+Scopine	0.336	0.239	0.38	0.417
+Propranolol HCl	0.336	0.290	0.38	0.461
+Cisatracurium Besylate	0.336	0.163	0.38	0.334
+Xylazine HCl	0.336	0.172	0.38	0.334
+Nebivolol 	0.336	0.142	0.38	0.294
+Alfuzosin HCl 	0.336	0.315	0.38	0.451
+Oxymetazoline HCl	0.336	0.233	0.38	0.353
+Noradrenaline bitartrate monohydrate	0.336	0.316	0.38	0.436
+Ivabradine HCl	0.336	0.183	0.38	0.300
+Adrenalone HCl	0.336	0.263	0.38	0.379
+Synephrine	0.336	0.184	0.38	0.297
+Yohimbine HCl	0.336	0.204	0.38	0.313
+Xylometazoline HCl	0.336	0.284	0.38	0.390
+Esmolol HCl	0.336	0.228	0.38	0.326
+Guanabenz Acetate	0.336	0.351	0.38	0.447
+Buflomedil HCl	0.336	0.283	0.38	0.376
+Levobetaxolol HCl	0.336	0.381	0.38	0.473
+Acebutolol HCl	0.336	0.295	0.38	0.386
+Tolazoline HCl	0.336	0.254	0.38	0.346
+Scopine HCl	0.336	0.294	0.38	0.362
+Doxazosin Mesylate	0.336	0.254	0.38	0.319
+Ractopamine HCl	0.336	0.268	0.38	0.332
+Timolol Maleate	0.336	0.267	0.38	0.330
+Medetomidine HCl	0.336	0.340	0.38	0.396
+Phenoxybenzamine HCl	0.336	0.276	0.38	0.331
+L-Adrenaline	0.336	0.313	0.38	0.367
+Phentolamine Mesylate	0.336	0.307	0.38	0.358
+Epinephrine HCl	0.336	0.345	0.38	0.396
+Indacaterol Maleate	0.336	0.307	0.38	0.354
+Metoprolol Tartrate	0.336	0.337	0.38	0.382
+Epinephrine Bitartrate 	0.336	0.283	0.38	0.321
+Phenylephrine HCl	0.336	0.269	0.38	0.305
+Naftopidil 	0.336	0.312	0.38	0.347
+Bisoprolol fumarate	0.336	0.347	0.38	0.381
+Clorprenaline HCL	0.336	0.259	0.38	0.291
+Betaxolol	0.336	0.279	0.38	0.311
+Prazosin HCl	0.336	0.335	0.38	0.364
+Formoterol Hemifumarate	0.336	0.298	0.38	0.320
+Brimonidine Tartrate	0.336	0.362	0.38	0.376
+Synephrine HCl	0.336	0.290	0.38	0.303
+Detomidine HCl	0.336	0.370	0.38	0.382
+Sotalol 	0.336	0.316	0.38	0.327
+Terazosin HCl 	0.336	0.315	0.38	0.322
+Tizanidine HCl	0.336	0.358	0.38	0.354
+Silodosin	0.336	0.348	0.38	0.344
+Ritodrine HCl 	0.336	0.335	0.38	0.330
+Dexmedetomidine	0.336	0.428	0.38	0.420
+Naphazoline HCl 	0.336	0.317	0.38	0.300
+Tetrahydrozoline HCl	0.336	0.300	0.38	0.281
+Mirabegron	0.336	0.372	0.38	0.352
+Naftopidil DiHCl	0.336	0.372	0.38	0.333
+Clonidine HCl 	0.336	0.269	0.38	0.391
+StemRegenin 1 (SR1)	0.336	0.279	0.38	0.434
+Isoliquiritigenin	0.336	0.163	0.38	0.362
+Epalrestat	0.336	0.207	0.38	0.365
+MK-2206 2HCl	0.336	0.221	0.38	0.493
+AZD5363	0.336	0.342	0.38	0.601
+Triciribine	0.336	0.502	0.38	0.525
+CCT128930	0.336	0.115	0.38	0.435
+GDC-0068	0.336	0.177	0.38	0.492
+TIC10	0.336	0.304	0.38	0.418
+A-674563	0.336	0.602	0.38	0.794
+AT7867	0.336	0.374	0.38	0.611
+GSK690693	0.336	0.207	0.38	0.523
+Disulfiram 	0.336	0.184	0.38	0.320
+Miglitol	0.336	0.234	0.38	0.407
+Acarbose	0.336	0.273	0.38	0.337
+Voglibose	0.336	0.286	0.38	0.343
+Tosedostat (CHR2797)	0.336	0.392	0.38	0.462
+Aniracetam	0.336	0.267	0.38	0.392
+A-769662	0.336	0.253	0.38	0.371
+Acadesine	0.336	0.296	0.38	0.384
+ZLN005	0.336	0.137	0.38	0.460
+AZD3514	0.336	0.087	0.38	0.300
+Flutamide	0.336	0.244	0.38	0.408
+Bicalutamide	0.336	0.253	0.38	0.376
+ARN-509	0.336	0.303	0.38	0.422
+Enzalutamide (MDV3100)	0.336	0.343	0.38	0.452
+Oxymetholone	0.336	0.292	0.38	0.399
+Cyproterone Acetate	0.336	0.240	0.38	0.329
+Dehydroepiandrosterone (DHEA)	0.336	0.264	0.38	0.318
+MK-2866 (GTx-024)	0.336	0.306	0.38	0.357
+Spironolactone	0.336	0.376	0.38	0.389
+Andarine	0.336	0.345	0.38	0.356
+Epiandrosterone	0.336	0.230	0.38	0.355
+TAME	0.336	0.247	0.38	0.371
+Losartan Potassium (DuP 753)	0.336	0.319	0.38	0.497
+Valsartan	0.336	0.177	0.38	0.332
+Candesartan Cilexetil	0.336	0.255	0.38	0.360
+Azilsartan	0.336	0.272	0.38	0.376
+Candesartan 	0.336	0.276	0.38	0.371
+Telmisartan 	0.336	0.321	0.38	0.412
+PD123319	0.336	0.253	0.38	0.335
+Eprosartan Mesylate	0.336	0.280	0.38	0.328
+Olmesartan Medoxomil	0.336	0.316	0.38	0.348
+Irbesartan	0.336	0.323	0.38	0.347
+Azilsartan Medoxomil	0.336	0.329	0.38	0.345
+KU-60019	0.336	0.231	0.38	0.453
+KU-55933 (ATM Kinase Inhibitor)	0.336	0.332	0.38	0.409
+CGK 733	0.336	0.126	0.38	0.411
+VE-821	0.336	0.593	0.38	0.837
+AZ20	0.336	0.624	0.38	0.809
+VE-822	0.336	0.802	0.38	0.951
+NU6027	0.336	0.214	0.38	0.374
+MK-8745	0.336	0.489	0.38	0.758
+PHA-680632	0.336	0.322	0.38	0.571
+VX-680 (Tozasertib, MK-0457)	0.336	0.612	0.38	0.851
+Alisertib (MLN8237)	0.336	0.654	0.38	0.872
+MLN8054	0.336	0.634	0.38	0.822
+Barasertib (AZD1152-HQPA)	0.336	0.737	0.38	0.906
+ZM 447439	0.336	0.706	0.38	0.870
+SNS-314 Mesylate	0.336	0.680	0.38	0.833
+AMG-900	0.336	0.712	0.38	0.845
+Hesperadin	0.336	0.901	0.38	0.977
+CCT129202	0.336	0.363	0.38	0.435
+TAK-901	0.336	0.925	0.38	0.989
+CYC116	0.336	0.684	0.38	0.587
+CCT137690	0.336	0.410	0.38	0.944
+GSK1070916	0.336	0.407	0.38	0.801
+MK-5108 (VX-689)	0.336	0.455	0.38	0.829
+Aurora A Inhibitor I	0.336	0.390	0.38	0.755
+Danusertib (PHA-739358)	0.336	0.545	0.38	0.802
+LY2886721	0.336	0.255	0.38	0.457
+LY2811376	0.336	0.268	0.38	0.333
+BAM7	0.336	0.221	0.38	0.313
+TW-37	0.336	0.405	0.38	0.538
+Obatoclax Mesylate (GX15-070)	0.336	0.467	0.38	0.567
+HA14-1	0.336	0.279	0.38	0.362
+AT101	0.336	0.089	0.38	0.163
+ABT-199 (GDC-0199)	0.336	0.513	0.38	0.573
+ABT-263 (Navitoclax)	0.336	0.786	0.38	0.756
+ABT-737	0.336	0.738	0.38	0.358
+(+)-JQ1	0.336	0.425	0.38	0.839
+PFI-1 (PF-6405761)	0.336	0.127	0.38	0.524
+I-BET151 (GSK1210151A)	0.336	0.278	0.38	0.673
+I-BET-762	0.336	0.182	0.38	0.574
+Tetrandrine	0.336	0.150	0.38	0.411
+Felodipine	0.336	0.188	0.38	0.434
+Lacidipine 	0.336	0.186	0.38	0.409
+Clevidipine Butyrate	0.336	0.156	0.38	0.345
+Manidipine 2HCl	0.336	0.211	0.38	0.394
+Nitrendipine	0.336	0.221	0.38	0.382
+Manidipine	0.336	0.286	0.38	0.445
+Nisoldipine 	0.336	0.285	0.38	0.442
+Benidipine HCl	0.336	0.268	0.38	0.412
+Verapamil HCl	0.336	0.178	0.38	0.318
+Lomerizine HCl	0.336	0.246	0.38	0.369
+Diltiazem HCl 	0.336	0.240	0.38	0.359
+Cilnidipine	0.336	0.230	0.38	0.346
+Nifedipine	0.336	0.246	0.38	0.354
+Nicardipine HCl	0.336	0.309	0.38	0.398
+Tetracaine HCl 	0.336	0.237	0.38	0.323
+Flunarizine 2HCl	0.336	0.282	0.38	0.348
+Nimodipine	0.336	0.283	0.38	0.348
+Azelnidipine	0.336	0.270	0.38	0.327
+Nilvadipine	0.336	0.316	0.38	0.365
+Isradipine	0.336	0.357	0.38	0.400
+Amlodipine 	0.336	0.328	0.38	0.315
+Rimonabant	0.336	0.258	0.38	0.407
+GW842166X	0.336	0.285	0.38	0.404
+BML-190	0.336	0.272	0.38	0.356
+AM251	0.336	0.403	0.38	0.425
+Org 27569	0.336	0.361	0.38	0.379
+AM1241	0.336	0.325	0.38	0.682
+Tioxolone	0.336	0.202	0.38	0.353
+U-104	0.336	0.249	0.38	0.382
+Brinzolamide	0.336	0.234	0.38	0.348
+Dichlorphenamide	0.336	0.417	0.38	0.413
+Methazolamide	0.336	0.302	0.38	0.294
+PAC-1	0.336	0.335	0.38	0.555
+VX-765	0.336	0.213	0.38	0.334
+Apoptosis Activator 2	0.336	0.259	0.38	0.345
+NPS-2143	0.336	0.103	0.38	0.262
+Cinacalcet HCl	0.336	0.320	0.38	0.349
+Cathepsin Inhibitor 1	0.336	0.225	0.38	0.391
+Odanacatib (MK-0822)	0.336	0.334	0.38	0.364
+E-64	0.336	0.229	0.38	0.552
+Rebamipide	0.336	0.316	0.38	0.415
+Maraviroc	0.336	0.211	0.38	0.340
+NSC 23766	0.336	0.189	0.38	0.392
+ZCL278	0.336	0.356	0.38	0.457
+EHop-016 	0.336	0.323	0.38	0.410
+R547	0.336	0.457	0.38	0.683
+SNS-032 (BMS-387032)	0.336	0.445	0.38	0.655
+Flavopiridol HCl	0.336	0.535	0.38	0.744
+P276-00	0.336	0.593	0.38	0.766
+AT7519	0.336	0.462	0.38	0.624
+BS-181 HCl	0.336	0.226	0.38	0.383
+AZD5438	0.336	0.464	0.38	0.607
+Dinaciclib (SCH727965)	0.336	0.431	0.38	0.568
+Palbociclib (PD-0332991) HCl	0.336	0.067	0.38	0.174
+Roscovitine (Seliciclib,CYC202)	0.336	0.233	0.38	0.313
+PHA-767491	0.336	0.360	0.38	0.411
+BMS-265246	0.336	0.233	0.38	0.263
+TG003	0.336	0.426	0.38	0.442
+PHA-793887	0.336	0.547	0.38	0.509
+LY2835219	0.336	0.351	0.38	0.741
+JNJ-7706621	0.336	0.332	0.38	0.409
+Milciclib (PHA-848125)	0.336	0.094	0.38	0.418
+Anacetrapib (MK-0859)	0.336	0.205	0.38	0.460
+Torcetrapib	0.336	0.319	0.38	0.512
+Dalcetrapib (JTT-705, RO4607381)	0.336	0.199	0.38	0.374
+Evacetrapib (LY2484595)	0.336	0.237	0.38	0.302
+CFTRinh-172	0.336	0.129	0.38	0.344
+VX-809 (Lumacaftor)	0.336	0.212	0.38	0.421
+Ataluren (PTC124)	0.336	0.155	0.38	0.351
+VX-661	0.336	0.226	0.38	0.355
+Ivacaftor (VX-770)	0.336	0.325	0.38	0.383
+IOWH032	0.336	0.164	0.38	0.503
+MK-8776 (SCH 900776)	0.336	0.544	0.38	0.731
+CHIR-124	0.336	0.616	0.38	0.770
+LY2603618	0.336	0.826	0.38	0.897
+AZD7762	0.336	0.964	0.38	0.948
+PF-477736	0.336	0.266	0.38	0.670
+CX-4945 (Silmitasertib)	0.336	0.276	0.38	0.424
+Lubiprostone 	0.336	0.276	0.38	0.357
+Phenformin HCl	0.336	0.244	0.38	0.306
+Tolcapone	0.336	0.330	0.38	0.504
+Entacapone	0.336	0.255	0.38	0.373
+Flurbiprofen 	0.336	0.078	0.38	0.336
+Indomethacin 	0.336	0.129	0.38	0.378
+Nimesulide	0.336	0.124	0.38	0.354
+Diclofenac Diethylamine	0.336	0.206	0.38	0.413
+Glafenine HCl	0.336	0.221	0.38	0.426
+Famprofazone	0.336	0.211	0.38	0.413
+Bufexamac	0.336	0.138	0.38	0.324
+Ibuprofen 	0.336	0.301	0.38	0.446
+Ampiroxicam	0.336	0.248	0.38	0.382
+Nabumetone	0.336	0.206	0.38	0.337
+Sasapyrine	0.336	0.206	0.38	0.332
+Ketorolac	0.336	0.219	0.38	0.341
+Valdecoxib	0.336	0.193	0.38	0.313
+Aspirin	0.336	0.262	0.38	0.379
+Ketoprofen 	0.336	0.219	0.38	0.330
+Licofelone	0.336	0.222	0.38	0.328
+Rofecoxib 	0.336	0.240	0.38	0.344
+Mefenamic Acid	0.336	0.250	0.38	0.349
+Suprofen 	0.336	0.280	0.38	0.365
+Sulindac 	0.336	0.303	0.38	0.388
+Zaltoprofen	0.336	0.270	0.38	0.355
+Triflusal	0.336	0.301	0.38	0.385
+Diclofenac Potassium	0.336	0.300	0.38	0.380
+Tolmetin Sodium	0.336	0.318	0.38	0.388
+Bromfenac Sodium	0.336	0.293	0.38	0.355
+Lumiracoxib	0.336	0.346	0.38	0.407
+Flunixin Meglumin	0.336	0.335	0.38	0.395
+Tolfenamic Acid	0.336	0.307	0.38	0.362
+Asaraldehyde	0.336	0.298	0.38	0.352
+Carprofen	0.336	0.269	0.38	0.321
+Piroxicam 	0.336	0.287	0.38	0.334
+Oxaprozin	0.336	0.312	0.38	0.348
+Acemetacin	0.336	0.365	0.38	0.398
+Benzydamine HCl	0.336	0.247	0.38	0.280
+Celecoxib	0.336	0.307	0.38	0.331
+Meloxicam	0.336	0.313	0.38	0.337
+Diclofenac Sodium	0.336	0.294	0.38	0.314
+Lornoxicam	0.336	0.336	0.38	0.356
+Amfenac Sodium Monohydrate	0.336	0.349	0.38	0.363
+Etodolac 	0.336	0.358	0.38	0.369
+Phenylbutazone 	0.336	0.323	0.38	0.327
+Naproxen 	0.336	0.324	0.38	0.320
+Nepafenac	0.336	0.389	0.38	0.358
+Niflumic acid	0.336	0.208	0.38	0.367
+Flufenamic acid	0.336	0.236	0.38	0.338
+SGC-CBP30	0.336	0.172	0.38	0.370
+KPT-276	0.336	0.479	0.38	0.587
+KPT-330	0.336	0.478	0.38	0.560
+KPT-185	0.336	0.317	0.38	0.390
+WZ811	0.336	0.298	0.38	0.352
+Cyclosporine 	0.336	0.225	0.38	0.401
+Cyclosporin A 	0.336	0.139	0.38	0.247
+Proadifen HCl	0.336	0.267	0.38	0.446
+Abiraterone Acetate	0.336	0.209	0.38	0.282
+Galeterone	0.336	0.229	0.38	0.271
+TAK-700 (Orteronel)	0.336	0.410	0.38	0.371
+Letrozole	0.336	0.309	0.38	0.402
+Formestane	0.336	0.307	0.38	0.382
+Anastrozole	0.336	0.331	0.38	0.382
+Aminoglutethimide 	0.336	0.317	0.38	0.344
+Exemestane	0.336	0.351	0.38	0.377
+Alizarin	0.336	0.179	0.38	0.412
+Memantine HCl	0.336	0.271	0.38	0.428
+Baicalein	0.336	0.256	0.38	0.405
+Apigenin	0.336	0.294	0.38	0.367
+Tranylcypromine (2-PCPA) HCl	0.336	0.227	0.38	0.298
+Benzbromarone	0.336	0.291	0.38	0.583
+Cobicistat (GS-9350)	0.336	0.089	0.38	0.292
+PF-4981517	0.336	0.218	0.38	0.358
+Ritonavir	0.336	0.251	0.38	0.246
+Posaconazole	0.336	0.180	0.38	0.765
+Miconazole 	0.336	0.187	0.38	0.420
+Econazole nitrate 	0.336	0.179	0.38	0.410
+Clotrimazole	0.336	0.383	0.38	0.593
+Clarithromycin 	0.336	0.150	0.38	0.353
+Butoconazole nitrate	0.336	0.278	0.38	0.451
+Bifonazole	0.336	0.363	0.38	0.519
+Fluconazole	0.336	0.300	0.38	0.408
+Isoconazole nitrate 	0.336	0.341	0.38	0.438
+Miconazole Nitrate	0.336	0.299	0.38	0.387
+Sertaconazole nitrate	0.336	0.311	0.38	0.380
+Sulconazole Nitrate	0.336	0.290	0.38	0.356
+Voriconazole	0.336	0.326	0.38	0.350
+Tioconazole	0.336	0.334	0.38	0.358
+Itraconazole	0.336	0.976	0.38	0.992
+Ketoconazole	0.336	0.419	0.38	0.404
+A922500	0.336	0.253	0.38	0.379
+SGI-1027	0.336	0.498	0.38	1.000
+RG108	0.336	0.229	0.38	0.420
+Decitabine	0.336	0.388	0.38	0.571
+Zebularine	0.336	0.249	0.38	0.374
+Azacitidine 	0.336	0.249	0.38	0.364
+Lomeguatrib	0.336	0.269	0.38	0.564
+NU7026	0.336	0.291	0.38	0.377
+NU7441 (KU-57788)	0.336	0.135	0.38	0.590
+PIK-75	0.336	0.908	0.38	0.856
+RITA (NSC 652287)	0.336	0.744	0.38	0.843
+Doxifluridine	0.336	0.294	0.38	0.344
+Cytarabine	0.336	0.705	0.38	0.722
+Nelarabine 	0.336	0.352	0.38	0.358
+Gemcitabine 	0.336	0.810	0.38	0.804
+Bleomycin Sulfate	0.336	0.751	0.38	0.743
+Cyclocytidine HCl	0.336	0.659	0.38	0.639
+Dacarbazine	0.336	0.386	0.38	0.339
+Bendamustine HCl	0.336	0.386	0.38	0.327
+8-Azaguanine	0.336	0.500	0.38	0.404
+Temozolomide	0.336	0.420	0.38	0.248
+Benserazide HCl	0.336	0.297	0.38	0.350
+Carbidopa	0.336	0.331	0.38	0.370
+Quetiapine Fumarate	0.336	0.135	0.38	0.359
+Haloperidol 	0.336	0.208	0.38	0.410
+Chlorprothixene	0.336	0.123	0.38	0.323
+Dopamine HCl	0.336	0.233	0.38	0.384
+Thioridazine HCl	0.336	0.162	0.38	0.308
+Amantadine HCl	0.336	0.186	0.38	0.304
+Droperidol	0.336	0.252	0.38	0.363
+Loxapine Succinate	0.336	0.219	0.38	0.330
+Pergolide mesylate	0.336	0.220	0.38	0.325
+Ropinirole HCl	0.336	0.265	0.38	0.343
+Azaperone	0.336	0.229	0.38	0.305
+Levosulpiride	0.336	0.274	0.38	0.341
+PD128907 HCl	0.336	0.293	0.38	0.353
+Rotundine	0.336	0.306	0.38	0.365
+Prochlorperazine Dimaleate	0.336	0.276	0.38	0.333
+Domperidone 	0.336	0.256	0.38	0.305
+Phenothiazine	0.336	0.343	0.38	0.368
+Trifluoperazine 2HCl	0.336	0.362	0.38	0.384
+Pramipexole	0.336	0.287	0.38	0.303
+Alizapride HCl	0.336	0.343	0.38	0.331
+Amisulpride	0.336	0.373	0.38	0.335
+Penfluridol	0.336	0.196	0.38	0.326
+Benztropine mesylate	0.336	0.253	0.38	0.422
+SGC 0946	0.336	0.201	0.38	0.359
+EPZ004777 HCl 	0.336	0.344	0.38	0.467
+EPZ5676	0.336	0.395	0.38	0.353
+Vildagliptin (LAF-237)	0.336	0.117	0.38	0.378
+Sitagliptin phosphate monohydrate	0.336	0.239	0.38	0.357
+Saxagliptin	0.336	0.298	0.38	0.374
+Glimepiride	0.336	0.328	0.38	0.369
+Alogliptin	0.336	0.366	0.38	0.387
+Linagliptin	0.336	0.091	0.38	0.404
+Gimeracil	0.336	0.315	0.38	0.408
+Degrasyn (WP1130)	0.336	0.201	0.38	0.466
+PR-619	0.336	0.187	0.38	0.374
+LDN-57444	0.336	0.148	0.38	0.315
+P22077	0.336	0.158	0.38	0.322
+P5091 (P005091)	0.336	0.166	0.38	0.327
+IU1	0.336	0.188	0.38	0.291
+TCID	0.336	0.119	0.38	0.204
+PYR-41	0.336	0.178	0.38	0.434
+Mdivi-1	0.336	0.239	0.38	0.438
+Dynasore	0.336	0.393	0.38	0.466
+AZ191	0.336	0.098	0.38	0.232
+ID-8	0.336	0.281	0.38	0.355
+A-205804	0.336	0.394	0.38	0.357
+BIX 01294	0.336	0.213	0.38	0.935
+Camostat Mesilate	0.336	0.306	0.38	0.351
+Ambrisentan	0.336	0.269	0.38	0.481
+Sitaxentan sodium	0.336	0.199	0.38	0.361
+Macitentan	0.336	0.246	0.38	0.356
+Zibotentan (ZD4054)	0.336	0.328	0.38	0.371
+Bosentan Hydrate	0.336	0.360	0.38	0.394
+NVP-BHG712	0.336	0.212	0.38	0.849
+Equol	0.336	0.171	0.38	0.406
+Toremifene Citrate	0.336	0.142	0.38	0.364
+Pregnenolone	0.336	0.082	0.38	0.275
+Ulipristal	0.336	0.169	0.38	0.335
+Hexestrol	0.336	0.179	0.38	0.323
+Medroxyprogesterone acetate	0.336	0.094	0.38	0.220
+Altrenogest	0.336	0.175	0.38	0.286
+Estradiol	0.336	0.259	0.38	0.362
+Estradiol valerate	0.336	0.244	0.38	0.346
+Progesterone	0.336	0.245	0.38	0.337
+Tamoxifen Citrate	0.336	0.284	0.38	0.372
+Ethynodiol diacetate	0.336	0.290	0.38	0.376
+Estriol	0.336	0.293	0.38	0.372
+Mifepristone	0.336	0.236	0.38	0.308
+Diethylstilbestrol	0.336	0.322	0.38	0.392
+Dydrogesterone	0.336	0.268	0.38	0.337
+Fulvestrant	0.336	0.262	0.38	0.315
+Levonorgestrel 	0.336	0.306	0.38	0.342
+Megestrol Acetate	0.336	0.226	0.38	0.257
+Estrone	0.336	0.354	0.38	0.378
+Mestranol	0.336	0.315	0.38	0.309
+Bazedoxifene HCl	0.336	0.225	0.38	0.219
+Ethinyl Estradiol	0.336	0.358	0.38	0.350
+Drospirenone	0.336	0.294	0.38	0.281
+Dienogest	0.336	0.360	0.38	0.340
+Clomifene citrate 	0.336	0.325	0.38	0.283
+Norethindrone	0.336	0.338	0.38	0.279
+Raloxifene HCl	0.336	0.431	0.38	0.370
+Gestodene	0.336	0.363	0.38	0.255
+EPZ-6438	0.336	0.203	0.38	0.331
+UNC1999	0.336	0.234	0.38	0.353
+EPZ005687	0.336	0.222	0.38	0.316
+3-Deazaneplanocin A (DZNeP)	0.336	0.160	0.38	0.438
+Oligomycin A	0.336	0.148	0.38	0.253
+PF-3845	0.336	0.108	0.38	0.739
+JNJ-1661010	0.336	0.227	0.38	0.408
+URB597	0.336	0.198	0.38	0.375
+Biochanin A	0.336	0.356	0.38	0.319
+Rivaroxaban	0.336	0.230	0.38	0.344
+Apixaban	0.336	0.272	0.38	0.362
+Edoxaban	0.336	0.338	0.38	0.672
+PF-562271	0.336	0.425	0.38	0.592
+PF-573228	0.336	0.278	0.38	0.435
+PF-00562271	0.336	0.460	0.38	0.583
+TAE226 (NVP-TAE226)	0.336	0.711	0.38	0.631
+Tipifarnib 	0.336	0.323	0.38	0.530
+Lonafarnib	0.336	0.367	0.38	0.486
+Costunolide	0.336	0.268	0.38	0.407
+Orlistat 	0.336	0.224	0.38	0.417
+Tacrolimus (FK506)	0.336	0.181	0.38	0.326
+Temsirolimus (CCI-779, NSC 683864)	0.336	0.049	0.38	0.306
+Rapamycin (Sirolimus)	0.336	0.052	0.38	0.280
+Everolimus (RAD001)	0.336	0.053	0.38	0.264
+Ridaforolimus (Deforolimus, MK-8669)	0.336	0.038	0.38	0.236
+Zoledronic Acid 	0.336	0.327	0.38	0.384
+XL335	0.336	0.295	0.38	0.429
+GW4064	0.336	0.330	0.38	0.681
+(+)-Bicuculline	0.336	0.096	0.38	0.365
+Ginkgolide A	0.336	0.206	0.38	0.390
+Nefiracetam	0.336	0.234	0.38	0.343
+Etomidate	0.336	0.314	0.38	0.372
+Flumazenil	0.336	0.389	0.38	0.393
+Piracetam	0.336	0.361	0.38	0.358
+Felbamate	0.336	0.331	0.38	0.322
+YO-01027	0.336	0.197	0.38	0.388
+LY411575	0.336	0.171	0.38	0.341
+DAPT (GSI-IX)	0.336	0.252	0.38	0.327
+Semagacestat (LY450139)	0.336	0.271	0.38	0.341
+MK-0752	0.336	0.300	0.38	0.323
+Avagacestat (BMS-708163)	0.336	0.344	0.38	0.356
+Golgicide A	0.336	0.647	0.38	0.832
+Brefeldin A 	0.336	0.925	0.38	0.955
+Halcinonide	0.336	0.075	0.38	0.350
+Desonide	0.336	0.102	0.38	0.353
+Deflazacort 	0.336	0.079	0.38	0.330
+Beclomethasone dipropionate	0.336	0.066	0.38	0.287
+Fluticasone propionate 	0.336	0.097	0.38	0.299
+Betamethasone 	0.336	0.079	0.38	0.266
+Methylprednisolone	0.336	0.171	0.38	0.313
+Fluorometholone Acetate	0.336	0.098	0.38	0.238
+Fluocinonide 	0.336	0.098	0.38	0.236
+Triamcinolone	0.336	0.123	0.38	0.259
+Meprednisone	0.336	0.212	0.38	0.346
+Fluocinolone Acetonide	0.336	0.089	0.38	0.209
+Budesonide	0.336	0.147	0.38	0.266
+Hydrocortisone 	0.336	0.160	0.38	0.278
+Flumethasone	0.336	0.086	0.38	0.202
+Loteprednol etabonate	0.336	0.093	0.38	0.187
+Cortisone acetate 	0.336	0.292	0.38	0.385
+Mometasone furoate	0.336	0.077	0.38	0.159
+Prednisolone 	0.336	0.248	0.38	0.302
+Prednisone 	0.336	0.344	0.38	0.396
+Halobetasol Propionate	0.336	0.052	0.38	0.095
+Dexamethasone (DHAP)	0.336	0.168	0.38	0.212
+Triamcinolone Acetonide	0.336	0.168	0.38	0.201
+Clobetasol propionate	0.336	0.059	0.38	0.085
+Difluprednate	0.336	0.080	0.38	0.365
+LY2608204	0.336	0.234	0.38	0.191
+LY404039	0.336	0.149	0.38	0.392
+VU 0361737	0.336	0.135	0.38	0.318
+VU 0364439	0.336	0.219	0.38	0.373
+ADX-47273	0.336	0.245	0.38	0.381
+NMDA (N-Methyl-D-aspartic acid)	0.336	0.241	0.38	0.367
+Ifenprodil Tartrate	0.336	0.258	0.38	0.365
+VU 0364770	0.336	0.292	0.38	0.399
+CTEP (RO4956371)	0.336	0.305	0.38	0.402
+VU 0357121	0.336	0.277	0.38	0.341
+MPEP	0.336	0.330	0.38	0.388
+MK-801 (Dizocilpine)	0.336	0.402	0.38	0.380
+(-)-MK 801 Maleate	0.336	0.400	0.38	0.356
+IEM 1754 dihydrobroMide	0.336	0.247	0.38	0.343
+Azathioprine	0.336	0.250	0.38	0.340
+Brucine	0.336	0.266	0.38	0.431
+CP-91149	0.336	0.224	0.38	0.395
+BMS-378806 	0.336	0.109	0.38	0.364
+SC144	0.336	0.551	0.38	0.717
+GSK1292263	0.336	0.073	0.38	0.300
+GW9508	0.336	0.234	0.38	0.367
+OC000459	0.336	0.244	0.38	0.361
+TAK-875	0.336	0.235	0.38	0.315
+AZD1981	0.336	0.287	0.38	0.317
+BIO	0.336	0.433	0.38	0.882
+AZD2858	0.336	0.581	0.38	0.856
+AZD1080	0.336	0.244	0.38	0.516
+Tideglusib	0.336	0.242	0.38	0.383
+TWS119	0.336	0.240	0.38	0.367
+Indirubin	0.336	0.331	0.38	0.447
+AR-A014418	0.336	0.387	0.38	0.483
+SB415286	0.336	0.311	0.38	0.321
+SB216763	0.336	0.392	0.38	0.390
+CHIR-99021 (CT99021) HCl	0.336	0.357	0.38	0.737
+CHIR-98014	0.336	0.349	0.38	0.672
+Omeprazole 	0.336	0.315	0.38	0.424
+Esomeprazole Sodium 	0.336	0.288	0.38	0.374
+Lansoprazole	0.336	0.330	0.38	0.387
+Dexlansoprazole	0.336	0.253	0.38	0.298
+VX-222 (VCH-222, Lomibuvir)	0.336	0.314	0.38	0.342
+Telaprevir (VX-950)	0.336	0.201	0.38	0.326
+Danoprevir (ITMN-191)	0.336	0.313	0.38	0.366
+Daclatasvir (BMS-790052)	0.336	0.283	0.38	0.311
+RG2833 (RGFP109)	0.336	0.194	0.38	0.998
+Belinostat (PXD101)	0.336	0.372	0.38	0.959
+Pracinostat (SB939)	0.336	0.681	0.38	0.979
+M344	0.336	0.411	0.38	0.807
+Entinostat (MS-275)	0.336	0.252	0.38	0.490
+CI994 (Tacedinaline)	0.336	0.081	0.38	0.290
+AR-42	0.336	0.833	0.38	0.983
+Givinostat (ITF2357)	0.336	0.860	0.38	0.999
+Sodium Phenylbutyrate	0.336	0.286	0.38	0.405
+Droxinostat	0.336	0.263	0.38	0.377
+Mocetinostat (MGCD0103)	0.336	0.909	0.38	0.972
+MC1568	0.336	0.362	0.38	0.401
+Valproic acid sodium salt (Sodium valproate)	0.336	0.327	0.38	0.363
+Tubastatin A HCl	0.336	0.324	0.38	0.342
+Trichostatin A (TSA)	0.336	0.981	0.38	0.998
+LAQ824 (Dacinostat)	0.336	0.986	0.38	0.999
+Quisinostat (JNJ-26481585)	0.336	0.995	0.38	1.000
+PCI-34051	0.336	0.314	0.38	0.291
+Rocilinostat (ACY-1215)	0.336	0.241	0.38	0.588
+Scriptaid 	0.336	0.286	0.38	0.692
+Vorinostat (SAHA, MK0683)	0.336	0.434	0.38	0.755
+RGFP966	0.336	0.064	0.38	0.344
+Resminostat	0.336	0.238	0.38	0.544
+CUDC-907	0.336	1.000	0.38	1.000
+Efaproxiral Sodium	0.336	0.214	0.38	0.389
+Lonidamine	0.336	0.229	0.38	0.365
+Chlorpheniramine Maleate	0.336	0.229	0.38	0.671
+Rupatadine Fumarate	0.336	0.151	0.38	0.386
+Famotidine 	0.336	0.111	0.38	0.329
+Clemastine Fumarate	0.336	0.130	0.38	0.307
+Pheniramine Maleate	0.336	0.194	0.38	0.354
+Antazoline HCl	0.336	0.247	0.38	0.388
+Brompheniramine hydrogen maleate	0.336	0.249	0.38	0.389
+Olopatadine HCl 	0.336	0.234	0.38	0.365
+Desloratadine	0.336	0.298	0.38	0.429
+Ciproxifan	0.336	0.222	0.38	0.352
+Fexofenadine HCl	0.336	0.240	0.38	0.368
+Roxatidine Acetate HCl	0.336	0.254	0.38	0.381
+Cyclizine 2HCl	0.336	0.287	0.38	0.407
+Terfenadine	0.336	0.180	0.38	0.292
+Ketotifen Fumarate 	0.336	0.223	0.38	0.334
+Doxylamine Succinate	0.336	0.248	0.38	0.358
+Dimaprit 2HCl	0.336	0.211	0.38	0.321
+Epinastine HCl	0.336	0.270	0.38	0.373
+Betahistine 2HCl	0.336	0.299	0.38	0.402
+Azelastine HCl	0.336	0.255	0.38	0.354
+Ranitidine	0.336	0.284	0.38	0.368
+Cyproheptadine HCl 	0.336	0.237	0.38	0.320
+Lafutidine	0.336	0.291	0.38	0.372
+Azatadine dimaleate	0.336	0.295	0.38	0.371
+Loratadine	0.336	0.262	0.38	0.324
+Cetirizine DiHCl	0.336	0.312	0.38	0.370
+Diphenhydramine HCl 	0.336	0.301	0.38	0.354
+Bepotastine Besilate	0.336	0.325	0.38	0.373
+Levodropropizine	0.336	0.265	0.38	0.311
+JNJ-7777120	0.336	0.321	0.38	0.359
+Nizatidine	0.336	0.286	0.38	0.319
+Ebastine	0.336	0.198	0.38	0.222
+Cimetidine 	0.336	0.301	0.38	0.324
+Lidocaine	0.336	0.332	0.38	0.349
+Tripelennamine HCl	0.336	0.363	0.38	0.370
+Histamine 2HCl	0.336	0.334	0.38	0.332
+Hydroxyzine 2HCl	0.336	0.381	0.38	0.359
+Meclizine 2HCl	0.336	0.428	0.38	0.336
+Mianserin HCl	0.336	0.239	0.38	0.338
+Mirtazapine	0.336	0.282	0.38	0.345
+Raltegravir (MK-0518)	0.336	0.143	0.38	0.408
+Dolutegravir (GSK1349572)	0.336	0.140	0.38	0.394
+Elvitegravir (GS-9137, JTK-303)	0.336	0.114	0.38	0.321
+MK-2048	0.336	0.274	0.38	0.361
+BMS-707035	0.336	0.354	0.38	0.344
+Amprenavir 	0.336	0.228	0.38	0.392
+Atazanavir Sulfate	0.336	0.279	0.38	0.415
+Darunavir Ethanolate	0.336	0.271	0.38	0.380
+Lopinavir	0.336	0.206	0.38	0.288
+Clinofibrate	0.336	0.248	0.38	0.359
+Lovastatin	0.336	0.222	0.38	0.304
+Atorvastatin Calcium 	0.336	0.249	0.38	0.306
+Nifenazone	0.336	0.300	0.38	0.344
+Simvastatin 	0.336	0.343	0.38	0.373
+Pravastatin sodium	0.336	0.346	0.38	0.351
+Mevastatin	0.336	0.304	0.38	0.308
+Fluvastatin Sodium	0.336	0.537	0.38	0.379
+Pitavastatin Calcium 	0.336	0.551	0.38	0.306
+Rosuvastatin Calcium	0.336	0.593	0.38	0.305
+Mercaptopurine (6-MP)	0.336	0.280	0.38	0.348
+Trilostane	0.336	0.356	0.38	0.378
+SNX-2112 (PF-04928473)	0.336	0.765	0.38	0.882
+XL888	0.336	0.693	0.38	0.800
+PF-04929113 (SNX-5422)	0.336	0.718	0.38	0.819
+AT13387	0.336	0.738	0.38	0.829
+AUY922 (NVP-AUY922)	0.336	0.743	0.38	0.808
+BIIB021	0.336	0.734	0.38	0.793
+KW-2478	0.336	0.631	0.38	0.686
+17-AAG (Tanespimycin)	0.336	0.770	0.38	0.815
+17-DMAG (Alvespimycin) HCl	0.336	0.740	0.38	0.777
+Ganetespib (STA-9090)	0.336	0.767	0.38	0.804
+Geldanamycin	0.336	0.304	0.38	0.583
+GDC-0152	0.336	0.300	0.38	0.511
+Embelin	0.336	0.284	0.38	0.313
+Birinapant	0.336	0.429	0.38	0.451
+AGI-5198	0.336	0.210	0.38	0.356
+NLG919	0.336	0.254	0.38	0.359
+Diacerein	0.336	0.339	0.38	0.353
+Moxonidine	0.336	0.333	0.38	0.386
+Mycophenolate Mofetil	0.336	0.134	0.38	0.376
+Mizoribine 	0.336	0.339	0.38	0.359
+Mycophenolic acid	0.336	0.060	0.38	0.403
+Cilengitide	0.336	0.230	0.38	0.407
+4mu8C	0.336	0.467	0.38	0.513
+Dexrazoxane HCl (ICRF-187, ADR-529)	0.336	0.411	0.38	0.352
+IKK-16 (IKK Inhibitor VII)	0.336	0.139	0.38	0.972
+IMD 0354	0.336	0.322	0.38	0.703
+Bardoxolone Methyl	0.336	0.785	0.38	1.000
+SC-514	0.336	0.189	0.38	0.341
+TPCA-1	0.336	0.113	0.38	0.210
+BMS-345541	0.336	0.277	0.38	0.696
+BAY 11-7082	0.336	0.255	0.38	0.467
+TG101348 (SAR302503)	0.336	0.271	0.38	0.982
+XL019	0.336	0.238	0.38	0.490
+AZ 960	0.336	0.514	0.38	0.759
+WP1066	0.336	0.231	0.38	0.475
+LY2784544	0.336	0.695	0.38	0.886
+ZM 39923 HCl	0.336	0.199	0.38	0.344
+Pacritinib (SB1518)	0.336	0.957	0.38	0.935
+Tofacitinib (CP-690550,Tasocitinib)	0.336	0.421	0.38	0.376
+Tofacitinib (CP-690550) Citrate	0.336	0.393	0.38	0.345
+S-Ruxolitinib (INCB018424)	0.336	0.407	0.38	0.352
+Ruxolitinib (INCB018424)	0.336	0.481	0.38	0.351
+CEP-33779	0.336	0.213	0.38	0.584
+CYT387	0.336	0.261	0.38	0.624
+NVP-BSK805 2HCl	0.336	0.100	0.38	0.502
+AT9283	0.336	0.777	0.38	0.966
+TG101209	0.336	0.636	0.38	0.980
+GSK J4 HCl	0.336	0.195	0.38	0.376
+JIB-04	0.336	0.203	0.38	0.370
+SP600125	0.336	0.997	0.38	0.995
+Ispinesib (SB-715992)	0.336	0.541	0.38	0.710
+SB743921	0.336	0.596	0.38	0.703
+Montelukast Sodium	0.336	0.188	0.38	0.411
+Pranlukast	0.336	0.267	0.38	0.331
+Zafirlukast 	0.336	0.423	0.38	0.375
+GW3965 HCl	0.336	0.123	0.38	0.322
+T0901317	0.336	0.104	0.38	0.209
+Zileuton	0.336	0.263	0.38	0.463
+Baicalin	0.336	0.259	0.38	0.404
+Ki16425	0.336	0.292	0.38	0.400
+Ki16198	0.336	0.305	0.38	0.335
+JZL184	0.336	0.165	0.38	0.317
+Nialamide	0.336	0.209	0.38	0.345
+Moclobemide (Ro 111163)	0.336	0.235	0.38	0.354
+Rasagiline Mesylate	0.336	0.329	0.38	0.400
+Safinamide Mesylate	0.336	0.311	0.38	0.345
+Nutlin-3	0.336	0.293	0.38	0.421
+JNJ-26854165 (Serdemetan)	0.336	0.432	0.38	0.757
+Pimasertib (AS-703026)	0.336	0.161	0.38	0.885
+BIX 02189	0.336	0.083	0.38	0.509
+Trametinib (GSK1120212)	0.336	0.193	0.38	0.636
+PD0325901	0.336	0.324	0.38	0.553
+BIX 02188	0.336	0.238	0.38	0.435
+PD318088	0.336	0.228	0.38	0.344
+MEK162 (ARRY-162, ARRY-438162)	0.336	0.198	0.38	0.294
+PD98059	0.336	0.311	0.38	0.406
+U0126-EtOH	0.336	0.308	0.38	0.375
+SL-327	0.336	0.298	0.38	0.317
+Selumetinib (AZD6244)	0.336	0.262	0.38	0.280
+PD184352 (CI-1040)	0.336	0.266	0.38	0.184
+TAK-733	0.336	0.235	0.38	0.614
+AZD8330	0.336	0.170	0.38	0.541
+UNC2250	0.336	0.258	0.38	0.740
+Deferasirox	0.336	0.309	0.38	0.451
+Ciclopirox	0.336	0.638	0.38	0.645
+Ciclopirox ethanolamine	0.336	0.664	0.38	0.665
+Griseofulvin	0.336	0.175	0.38	0.387
+ABT-751 (E7010)	0.336	0.551	0.38	0.729
+Vinblastine	0.336	0.643	0.38	0.787
+Epothilone B (EPO906, Patupilone)	0.336	0.753	0.38	0.865
+Epothilone A	0.336	0.762	0.38	0.871
+Vincristine	0.336	0.654	0.38	0.761
+Docetaxel	0.336	0.792	0.38	0.867
+Paclitaxel	0.336	0.809	0.38	0.880
+Cabazitaxel	0.336	0.816	0.38	0.871
+Nocodazole	0.336	0.768	0.38	0.805
+Vinflunine Tartrate	0.336	0.731	0.38	0.765
+Methacycline HCl	0.336	0.143	0.38	0.354
+Thiamphenicol	0.336	0.190	0.38	0.375
+Clindamycin	0.336	0.188	0.38	0.342
+Clindamycin palmitate HCl	0.336	0.172	0.38	0.310
+Oxytetracycline (Terramycin)	0.336	0.221	0.38	0.356
+Doxycycline HCl	0.336	0.233	0.38	0.363
+Tetracycline HCl	0.336	0.237	0.38	0.335
+Clindamycin HCl 	0.336	0.276	0.38	0.344
+Tigecycline	0.336	0.301	0.38	0.365
+Linezolid	0.336	0.296	0.38	0.335
+Erythromycin	0.336	0.377	0.38	0.404
+Chloramphenicol	0.336	0.305	0.38	0.330
+Doxycycline Hyclate	0.336	0.326	0.38	0.323
+MM-102	0.336	0.278	0.38	0.356
+Ilomastat (GM6001, Galardin)	0.336	0.264	0.38	0.325
+NSC 405020	0.336	0.261	0.38	0.294
+Batimastat (BB-94)	0.336	0.168	0.38	0.464
+Bindarit 	0.336	0.260	0.38	0.364
+Ramelteon	0.336	0.346	0.38	0.355
+WAY-600	0.336	0.193	0.38	0.782
+KU-0063794	0.336	0.061	0.38	0.649
+OSI-027	0.336	0.099	0.38	0.372
+GDC-0349	0.336	0.113	0.38	0.377
+WYE-125132 (WYE-132)	0.336	0.401	0.38	0.638
+Palomid 529 (P529)	0.336	0.216	0.38	0.439
+Torin 1	0.336	0.701	0.38	0.920
+PP242	0.336	0.060	0.38	0.268
+INK 128 (MLN0128)	0.336	0.509	0.38	0.666
+XL388	0.336	0.082	0.38	0.220
+AZD8055	0.336	0.192	0.38	0.304
+WYE-354	0.336	0.114	0.38	0.199
+Torin 2	0.336	0.894	0.38	0.956
+AZD2014	0.336	0.228	0.38	0.191
+ETP-46464	0.336	0.161	0.38	0.405
+10058-F4	0.336	0.228	0.38	0.325
+Sodium Nitrite	0.336	0.232	0.38	0.309
+Omecamtiv mecarbil (CK-1827452)	0.336	0.231	0.38	0.422
+(-)-Blebbistatin	0.336	0.191	0.38	0.383
+STF-118804	0.336	0.989	0.38	0.998
+JSH-23	0.336	0.223	0.38	0.338
+ML130 (Nodinitib-1)	0.336	0.299	0.38	0.434
+Apocynin	0.336	0.159	0.38	0.418
+Ezetimibe 	0.336	0.239	0.38	0.378
+Potassium Canrenoate	0.336	0.219	0.38	0.308
+Nilotinib (AMN-107)	0.336	0.313	0.38	0.434
+GNF-2	0.336	0.220	0.38	0.319
+Imatinib Mesylate (STI571)	0.336	0.312	0.38	0.585
+Imatinib (STI571)	0.336	0.235	0.38	0.473
+Ponatinib (AP24534)	0.336	0.840	0.38	0.954
+Dasatinib	0.336	0.770	0.38	0.913
+DCC-2036 (Rebastinib)	0.336	0.391	0.38	0.879
+Saracatinib (AZD0530)	0.336	0.102	0.38	0.841
+AVL-292	0.336	0.106	0.38	0.338
+CNX-774	0.336	0.203	0.38	0.300
+Ibrutinib (PCI-32765)	0.336	0.234	0.38	0.331
+R406	0.336	0.326	0.38	0.780
+GZD824	0.336	0.680	0.38	0.995
+PP2	0.336	0.443	0.38	0.803
+PP1	0.336	0.192	0.38	0.638
+Bosutinib (SKI-606)	0.336	0.142	0.38	0.501
+R406 (free base)	0.336	0.543	0.38	0.863
+PRT062607 (P505-15, BIIB057) HCl	0.336	0.094	0.38	0.553
+Piceatannol	0.336	0.093	0.38	0.398
+KX2-391	0.336	0.727	0.38	0.768
+Fostamatinib (R788)	0.336	0.890	0.38	0.985
+WZ4003	0.336	0.285	0.38	0.359
+Busulfan 	0.336	0.300	0.38	0.425
+Oxaliplatin	0.336	0.293	0.38	0.361
+Lomustine 	0.336	0.336	0.38	0.395
+Cyclophosphamide	0.336	0.328	0.38	0.386
+Cisplatin	0.336	0.327	0.38	0.338
+Carboplatin	0.336	0.378	0.38	0.367
+Ifosfamide	0.336	0.389	0.38	0.296
+Pyrimethamine	0.336	0.220	0.38	0.412
+Pralatrexate 	0.336	0.765	0.38	0.788
+Methotrexate	0.336	0.819	0.38	0.837
+Teriflunomide	0.336	0.175	0.38	0.286
+Leflunomide	0.336	0.325	0.38	0.347
+Hydroxyurea	0.336	0.189	0.38	0.416
+Clofarabine	0.336	0.818	0.38	0.760
+Fludarabine Phosphate	0.336	0.418	0.38	0.352
+Carmofur	0.336	0.176	0.38	0.356
+Fluorouracil (5-Fluoracil, 5-FU)	0.336	0.217	0.38	0.391
+Floxuridine	0.336	0.714	0.38	0.739
+Capecitabine 	0.336	0.354	0.38	0.354
+FT-207 (NSC 148958)	0.336	0.378	0.38	0.333
+Raltitrexed	0.336	0.854	0.38	0.789
+Thiamet G 	0.336	0.138	0.38	0.329
+OAC1	0.336	0.183	0.38	0.302
+Meptazinol HCl	0.336	0.109	0.38	0.356
+Naltrexone HCl	0.336	0.306	0.38	0.393
+Naloxone HCl	0.336	0.314	0.38	0.371
+Noscapine HCl	0.336	0.273	0.38	0.321
+Racecadotril 	0.336	0.323	0.38	0.359
+ADL5859 HCl	0.336	0.358	0.38	0.319
+JTC-801	0.336	0.706	0.38	0.477
+Loperamide HCl	0.336	0.183	0.38	0.294
+Probenecid 	0.336	0.296	0.38	0.388
+Cetrimonium Bromide (CTAB)	0.336	0.075	0.38	0.782
+Thonzonium Bromide	0.336	0.428	0.38	0.968
+Cetylpyridinium Chloride	0.336	0.396	0.38	0.847
+Cytidine	0.336	0.114	0.38	0.369
+Uracil	0.336	0.273	0.38	0.351
+Adenine HCl	0.336	0.305	0.38	0.352
+Uridine	0.336	0.317	0.38	0.340
+Altretamine	0.336	0.407	0.38	0.428
+Moxifloxacin HCl	0.336	0.326	0.38	0.816
+Tazarotene 	0.336	0.322	0.38	0.678
+Isotretinoin	0.336	0.321	0.38	0.605
+Andrographolide	0.336	0.245	0.38	0.521
+Valnemulin HCl	0.336	0.087	0.38	0.362
+Mequinol	0.336	0.301	0.38	0.575
+Famciclovir 	0.336	0.090	0.38	0.362
+Sulfadiazine	0.336	0.167	0.38	0.436
+Osthole	0.336	0.253	0.38	0.517
+Acesulfame Potassium	0.336	0.108	0.38	0.370
+Sparfloxacin	0.336	0.104	0.38	0.365
+Aloe-emodin	0.336	0.203	0.38	0.462
+Butein	0.336	0.208	0.38	0.463
+Sodium Danshensu	0.336	0.181	0.38	0.433
+Bephenium Hydroxynaphthoate	0.336	0.078	0.38	0.327
+Betulinic acid	0.336	0.142	0.38	0.386
+Sesamin	0.336	0.106	0.38	0.350
+Benfotiamine	0.336	0.172	0.38	0.416
+Clofazimine	0.336	0.125	0.38	0.366
+Toltrazuril	0.336	0.186	0.38	0.427
+Ribitol	0.336	0.307	0.38	0.544
+Cinoxacin	0.336	0.183	0.38	0.419
+Clorsulon	0.336	0.180	0.38	0.416
+10-Deacetylbaccatin-III	0.336	0.257	0.38	0.492
+Monobenzone	0.336	0.326	0.38	0.560
+Atovaquone	0.336	0.130	0.38	0.362
+Phenindione	0.336	0.234	0.38	0.462
+Tetrahydropapaverine HCl	0.336	0.218	0.38	0.443
+Diminazene Aceturate	0.336	0.110	0.38	0.334
+Pyrazinamide	0.336	0.091	0.38	0.315
+Hesperetin	0.336	0.182	0.38	0.404
+Dibenzothiophene	0.336	0.126	0.38	0.348
+Trimethoprim	0.336	0.134	0.38	0.355
+Acitretin	0.336	0.405	0.38	0.625
+Cloxacillin Sodium	0.336	0.161	0.38	0.382
+Broxyquinoline	0.336	0.300	0.38	0.520
+Alibendol	0.336	0.146	0.38	0.363
+Oxymatrine	0.336	0.145	0.38	0.362
+Nitrofural	0.336	0.116	0.38	0.331
+Salicin	0.336	0.168	0.38	0.382
+Methoxsalen	0.336	0.194	0.38	0.407
+Nanchangmycin	0.336	0.273	0.38	0.485
+Troxerutin	0.336	0.191	0.38	0.402
+Gastrodin	0.336	0.216	0.38	0.426
+Rutaecarpine	0.336	0.199	0.38	0.408
+Pridinol Methanesulfonate	0.336	0.200	0.38	0.408
+Myricitrin	0.336	0.211	0.38	0.419
+Sulphadimethoxine	0.336	0.138	0.38	0.345
+Xylose	0.336	0.145	0.38	0.351
+Sodium Nitroprusside	0.336	0.186	0.38	0.385
+Aciclovir	0.336	0.121	0.38	0.319
+Dextrose	0.336	0.221	0.38	0.418
+Salicylanilide	0.336	0.193	0.38	0.390
+Oleanolic Acid	0.336	0.134	0.38	0.330
+Tebipenem Pivoxil	0.336	0.117	0.38	0.313
+Florfenicol	0.336	0.087	0.38	0.281
+Berberine HCl	0.336	0.184	0.38	0.378
+Fidaxomicin	0.336	0.181	0.38	0.374
+Retapamulin	0.336	0.117	0.38	0.310
+Tiratricol	0.336	0.214	0.38	0.405
+Sucralose	0.336	0.221	0.38	0.411
+Oseltamivir phosphate 	0.336	0.174	0.38	0.359
+Moguisteine	0.336	0.199	0.38	0.383
+Moxalactam Disodium	0.336	0.176	0.38	0.358
+L-(+)-Rhamnose Monohydrate	0.336	0.202	0.38	0.383
+Acipimox	0.336	0.129	0.38	0.310
+Rutin	0.336	0.132	0.38	0.312
+Ceftiofur HCl	0.336	0.215	0.38	0.395
+Dyphylline	0.336	0.157	0.38	0.336
+Nitazoxanide	0.336	0.149	0.38	0.326
+Pidotimod	0.336	0.233	0.38	0.409
+Ergosterol	0.336	0.230	0.38	0.405
+Chloroxine	0.336	0.298	0.38	0.472
+Sodium ascorbate	0.336	0.227	0.38	0.400
+Bemegride	0.336	0.179	0.38	0.351
+Quinine HCl Dihydrate	0.336	0.247	0.38	0.419
+5-Aminolevulinic acid HCl	0.336	0.222	0.38	0.392
+Carbenicillin disodium	0.336	0.223	0.38	0.392
+Bergenin	0.336	0.179	0.38	0.347
+Nicotinic Acid	0.336	0.159	0.38	0.327
+Cyromazine	0.336	0.197	0.38	0.365
+Theobromine	0.336	0.166	0.38	0.330
+Polydatin	0.336	0.225	0.38	0.388
+Chenodeoxycholic Acid	0.336	0.206	0.38	0.368
+Aminothiazole	0.336	0.181	0.38	0.342
+Methylhydantoin-5-(D)	0.336	0.151	0.38	0.312
+Secnidazole 	0.336	0.192	0.38	0.349
+Suplatast Tosylate	0.336	0.203	0.38	0.360
+Aztreonam	0.336	0.181	0.38	0.335
+Tinidazole	0.336	0.185	0.38	0.338
+Diperodon HCl	0.336	0.162	0.38	0.315
+Cephalexin	0.336	0.221	0.38	0.373
+Rimantadine 	0.336	0.186	0.38	0.339
+Azlocillin sodium salt	0.336	0.217	0.38	0.369
+Choline Chloride	0.336	0.197	0.38	0.348
+Closantel Sodium	0.336	0.205	0.38	0.356
+Silymarin	0.336	0.192	0.38	0.343
+Rheochrysidin	0.336	0.160	0.38	0.311
+Amidopyrine	0.336	0.199	0.38	0.349
+Ampicillin sodium	0.336	0.233	0.38	0.383
+Enoxacin 	0.336	0.226	0.38	0.375
+Piperacillin Sodium	0.336	0.208	0.38	0.357
+Biotin (Vitamin B7)	0.336	0.267	0.38	0.414
+Bisacodyl	0.336	0.177	0.38	0.324
+Marbofloxacin	0.336	0.282	0.38	0.428
+Rifaximin	0.336	0.219	0.38	0.365
+Allylthiourea	0.336	0.183	0.38	0.327
+Clevudine 	0.336	0.231	0.38	0.375
+Dicloxacillin Sodium	0.336	0.212	0.38	0.356
+Tiopronin 	0.336	0.216	0.38	0.359
+Sulfamerazine	0.336	0.207	0.38	0.349
+(+)-Usniacin	0.336	0.285	0.38	0.427
+Cyclamic  acid	0.336	0.248	0.38	0.390
+Artemether	0.336	0.161	0.38	0.302
+Pramiracetam	0.336	0.193	0.38	0.333
+Oxethazaine	0.336	0.182	0.38	0.321
+Adenosine	0.336	0.204	0.38	0.344
+Elesclomol (STA-4783)	0.336	0.221	0.38	0.360
+Schisandrin B (Sch B)	0.336	0.190	0.38	0.328
+Chlorzoxazone	0.336	0.316	0.38	0.453
+Trometamol	0.336	0.212	0.38	0.349
+N6-methyladenosine (m6A)	0.336	0.242	0.38	0.376
+4-Aminohippuric Acid	0.336	0.271	0.38	0.405
+Coumarin	0.336	0.197	0.38	0.331
+Chrysophanic Acid	0.336	0.170	0.38	0.304
+Magnolol	0.336	0.237	0.38	0.370
+Thiabendazole	0.336	0.329	0.38	0.461
+Carbadox	0.336	0.234	0.38	0.365
+Moroxydine HCl	0.336	0.180	0.38	0.312
+Vitamin C	0.336	0.280	0.38	0.411
+Ganciclovir	0.336	0.231	0.38	0.361
+Valaciclovir HCl	0.336	0.223	0.38	0.353
+Isosorbide	0.336	0.215	0.38	0.344
+Valganciclovir HCl	0.336	0.218	0.38	0.346
+Evodiamine	0.336	0.703	0.38	0.832
+Albendazole	0.336	0.703	0.38	0.828
+Tangeretin	0.336	0.233	0.38	0.359
+Protionamide	0.336	0.216	0.38	0.342
+D-Pantothenic acid	0.336	0.246	0.38	0.371
+Difloxacin HCl	0.336	0.160	0.38	0.284
+Pefloxacin Mesylate	0.336	0.254	0.38	0.378
+Mepiroxol	0.336	0.189	0.38	0.313
+Sulbactam sodium 	0.336	0.274	0.38	0.398
+Sulfacetamide Sodium	0.336	0.206	0.38	0.330
+Domiphen Bromide	0.336	0.081	0.38	0.205
+Betamipron	0.336	0.203	0.38	0.327
+Ticarcillin sodium	0.336	0.253	0.38	0.376
+Erythritol	0.336	0.228	0.38	0.351
+Spiramycin	0.336	0.196	0.38	0.318
+Sulfanilamide	0.336	0.264	0.38	0.384
+Limonin	0.336	0.296	0.38	0.417
+Artesunate	0.336	0.166	0.38	0.286
+Tylosin tartrate	0.336	0.254	0.38	0.374
+Antipyrine	0.336	0.236	0.38	0.355
+Avobenzone	0.336	0.298	0.38	0.417
+1-Hexadecanol	0.336	0.231	0.38	0.350
+Ethambutol HCl	0.336	0.259	0.38	0.377
+Ferulic Acid	0.336	0.217	0.38	0.336
+Piromidic Acid	0.336	0.239	0.38	0.357
+Dihydroartemisinin (DHA)	0.336	0.259	0.38	0.377
+Bergapten	0.336	0.197	0.38	0.314
+Pyridoxine HCl 	0.336	0.252	0.38	0.368
+Esculin	0.336	0.318	0.38	0.432
+Zanamivir	0.336	0.264	0.38	0.377
+L-carnitine 	0.336	0.250	0.38	0.363
+Acetarsone	0.336	0.234	0.38	0.346
+Vitamin B12	0.336	0.268	0.38	0.379
+Amoxicillin Sodium	0.336	0.250	0.38	0.361
+Daphnetin	0.336	0.250	0.38	0.360
+(-)-Parthenolide	0.336	0.255	0.38	0.364
+Sodium 4-aminohippurate Hydrate	0.336	0.239	0.38	0.347
+Laetrile	0.336	0.271	0.38	0.378
+Emodin	0.336	0.228	0.38	0.334
+Furaltadone HCl	0.336	0.291	0.38	0.397
+Metronidazole 	0.336	0.272	0.38	0.378
+Amoxicillin	0.336	0.283	0.38	0.388
+Novobiocin Sodium 	0.336	0.249	0.38	0.353
+Taxifolin (Dihydroquercetin)	0.336	0.280	0.38	0.384
+Sodium salicylate	0.336	0.265	0.38	0.369
+Artemisinin	0.336	0.267	0.38	0.369
+Shikimic Acid	0.336	0.281	0.38	0.382
+Idoxuridine	0.336	0.215	0.38	0.316
+Dirithromycin	0.336	0.246	0.38	0.347
+Ornidazole	0.336	0.250	0.38	0.350
+Trifluridine 	0.336	0.352	0.38	0.450
+Alprostadil	0.336	0.232	0.38	0.330
+Calcium Gluceptate 	0.336	0.213	0.38	0.310
+Sinomenine	0.336	0.230	0.38	0.327
+Diclazuril	0.336	0.193	0.38	0.290
+Oxibendazole	0.336	0.681	0.38	0.777
+Aspartame	0.336	0.260	0.38	0.356
+Mecarbinate	0.336	0.300	0.38	0.396
+Menadione	0.336	0.281	0.38	0.377
+Penciclovir	0.336	0.247	0.38	0.343
+Tolnaftate	0.336	0.242	0.38	0.337
+Climbazole	0.336	0.234	0.38	0.329
+Terbinafine 	0.336	0.298	0.38	0.392
+Pasiniazid	0.336	0.240	0.38	0.334
+Azomycin	0.336	0.205	0.38	0.299
+Troxipide	0.336	0.282	0.38	0.376
+Butenafine HCl	0.336	0.282	0.38	0.375
+Mitotane 	0.336	0.256	0.38	0.348
+Dimethyl Fumarate	0.336	0.297	0.38	0.389
+Sulfaguanidine	0.336	0.215	0.38	0.307
+Fenbendazole 	0.336	0.661	0.38	0.753
+Curcumin	0.336	0.253	0.38	0.344
+Sitafloxacin Hydrate	0.336	0.248	0.38	0.339
+Formononetin	0.336	0.202	0.38	0.292
+Mezlocillin Sodium	0.336	0.276	0.38	0.366
+Divalproex Sodium	0.336	0.278	0.38	0.367
+Nithiamide	0.336	0.253	0.38	0.342
+Sulfamethizole 	0.336	0.273	0.38	0.361
+Oridonin	0.336	0.291	0.38	0.378
+Cinchophen	0.336	0.229	0.38	0.314
+Closantel	0.336	0.247	0.38	0.333
+Nifuroxazide	0.336	0.302	0.38	0.387
+Palmatine chloride	0.336	0.291	0.38	0.375
+Cefoperazone 	0.336	0.311	0.38	0.395
+Azithromycin	0.336	0.308	0.38	0.391
+Puerarin	0.336	0.289	0.38	0.370
+Aloperine	0.336	0.260	0.38	0.341
+Inosine	0.336	0.263	0.38	0.344
+Amphotericin B 	0.336	0.309	0.38	0.389
+Isoniazid	0.336	0.267	0.38	0.346
+Chlorogenic Acid	0.336	0.274	0.38	0.354
+Ipriflavone (Osteofix)	0.336	0.205	0.38	0.285
+Alverine Citrate	0.336	0.268	0.38	0.346
+Ethamsylate	0.336	0.269	0.38	0.347
+Geniposide	0.336	0.289	0.38	0.368
+Morin Hydrate	0.336	0.271	0.38	0.350
+Tetraethylenepentamine 5HCl	0.336	0.242	0.38	0.320
+Nobiletin	0.336	0.263	0.38	0.340
+Nicotinamide (Vitamin B3)	0.336	0.305	0.38	0.382
+Diosmin	0.336	0.270	0.38	0.347
+Lithium Citrate	0.336	0.302	0.38	0.378
+Terbinafine HCl 	0.336	0.274	0.38	0.349
+Cephalomannine 	0.336	0.842	0.38	0.917
+Sulfathiazole	0.336	0.288	0.38	0.363
+Sulfamethoxazole	0.336	0.295	0.38	0.369
+Chrysin	0.336	0.283	0.38	0.358
+Lincomycin HCl 	0.336	0.250	0.38	0.323
+Azacyclonol	0.336	0.264	0.38	0.338
+Bilobalide	0.336	0.302	0.38	0.375
+Liothyronine Sodium	0.336	0.287	0.38	0.360
+Salinomycin	0.336	0.304	0.38	0.376
+Stigmasterol	0.336	0.241	0.38	0.313
+Curcumol	0.336	0.284	0.38	0.355
+Gynostemma Extract	0.336	0.267	0.38	0.338
+Vitamin D3 	0.336	0.190	0.38	0.260
+Ribavirin 	0.336	0.291	0.38	0.360
+Phthalylsulfacetamide	0.336	0.243	0.38	0.312
+Amprolium HCl	0.336	0.281	0.38	0.350
+Guanidine HCl	0.336	0.272	0.38	0.340
+Lomefloxacin HCl 	0.336	0.248	0.38	0.317
+Guanethidine Sulfate	0.336	0.227	0.38	0.295
+Streptomycin sulfate	0.336	0.290	0.38	0.357
+20-Hydroxyecdysone	0.336	0.302	0.38	0.367
+5-hydroxytryptophan (5-HTP)	0.336	0.240	0.38	0.304
+Piperine	0.336	0.272	0.38	0.336
+7-Aminocephalosporanic acid	0.336	0.281	0.38	0.345
+Guanosine	0.336	0.291	0.38	0.354
+Methyclothiazide	0.336	0.254	0.38	0.317
+Myricetin	0.336	0.298	0.38	0.359
+Albendazole Oxide	0.336	0.335	0.38	0.394
+Fenspiride HCl	0.336	0.259	0.38	0.319
+Pentamidine	0.336	0.237	0.38	0.296
+Isovaleramide	0.336	0.276	0.38	0.334
+Mesna 	0.336	0.278	0.38	0.336
+Streptozotocin (STZ)	0.336	0.291	0.38	0.349
+Methyl-Hesperidin	0.336	0.283	0.38	0.341
+Flubendazole	0.336	0.746	0.38	0.803
+Natamycin 	0.336	0.288	0.38	0.344
+Nalidixic acid 	0.336	0.290	0.38	0.346
+Sulfamethazine	0.336	0.321	0.38	0.377
+Tanshinone I	0.336	0.356	0.38	0.411
+Ursolic Acid	0.336	0.244	0.38	0.299
+Vidarabine 	0.336	0.269	0.38	0.324
+Gramine	0.336	0.281	0.38	0.335
+Naringin Dihydrochalcone	0.336	0.291	0.38	0.346
+Rifabutin 	0.336	0.326	0.38	0.380
+PA-824	0.336	0.336	0.38	0.389
+Acetanilide	0.336	0.257	0.38	0.309
+Ursodiol	0.336	0.406	0.38	0.458
+Vitamin D2 	0.336	0.306	0.38	0.357
+Chromocarb	0.336	0.259	0.38	0.309
+3-Indolebutyric acid (IBA)	0.336	0.318	0.38	0.368
+D-Mannitol	0.336	0.289	0.38	0.338
+Salidroside	0.336	0.298	0.38	0.346
+Lithocholic acid	0.336	0.265	0.38	0.312
+Beta Carotene	0.336	0.308	0.38	0.356
+Eprazinone 2HCl	0.336	0.281	0.38	0.327
+Orotic acid (6-Carboxyuracil)	0.336	0.293	0.38	0.339
+Potassium Iodide	0.336	0.296	0.38	0.341
+Hyodeoxycholic acid (HDCA)	0.336	0.314	0.38	0.359
+Sophocarpine	0.336	0.290	0.38	0.334
+Indole-3-carbinol	0.336	0.280	0.38	0.324
+Nadifloxacin 	0.336	0.294	0.38	0.337
+Nystatin (Fungicidin)	0.336	0.258	0.38	0.301
+Paeonol	0.336	0.300	0.38	0.342
+L-Thyroxine	0.336	0.292	0.38	0.333
+4-Methylumbelliferone (4-MU)	0.336	0.361	0.38	0.402
+Cinchonidine	0.336	0.319	0.38	0.360
+Benzoic Acid	0.336	0.279	0.38	0.321
+Sulfisoxazole	0.336	0.324	0.38	0.365
+Kaempferol	0.336	0.288	0.38	0.328
+Phloretin	0.336	0.285	0.38	0.325
+Silibinin	0.336	0.292	0.38	0.332
+Chlormezanone 	0.336	0.394	0.38	0.433
+Fenticonazole Nitrate	0.336	0.260	0.38	0.299
+Bacitracin	0.336	0.329	0.38	0.368
+Geniposidic acid	0.336	0.346	0.38	0.384
+Gadodiamide 	0.336	0.322	0.38	0.360
+Astragaloside A	0.336	0.291	0.38	0.328
+Naringin	0.336	0.281	0.38	0.318
+Sulfamethoxypyridazine	0.336	0.304	0.38	0.340
+PMSF 	0.336	0.319	0.38	0.355
+Primaquine Diphosphate	0.336	0.286	0.38	0.321
+(+,-)-Octopamine HCl	0.336	0.360	0.38	0.396
+Ampicillin Trihydrate	0.336	0.353	0.38	0.387
+Sclareol	0.336	0.265	0.38	0.300
+(6-)Aminocaproic acid	0.336	0.305	0.38	0.339
+Tranilast	0.336	0.314	0.38	0.347
+Dropropizine	0.336	0.299	0.38	0.331
+Vanillin 	0.336	0.325	0.38	0.357
+DL-Carnitine HCl	0.336	0.315	0.38	0.346
+Kinetin	0.336	0.251	0.38	0.282
+Arbidol HCl	0.336	0.321	0.38	0.351
+Sarafloxacin HCl	0.336	0.297	0.38	0.326
+L-Ascorbyl 6-palmitate	0.336	0.344	0.38	0.372
+Sulfameter 	0.336	0.310	0.38	0.338
+Praziquantel	0.336	0.300	0.38	0.328
+Telbivudine 	0.336	0.358	0.38	0.386
+Enoxolone	0.336	0.287	0.38	0.314
+Chlorquinaldol	0.336	0.313	0.38	0.341
+Sclareolide	0.336	0.300	0.38	0.327
+Xanthone	0.336	0.336	0.38	0.362
+Phlorizin	0.336	0.300	0.38	0.325
+Ronidazole	0.336	0.299	0.38	0.324
+Sulfapyridine 	0.336	0.326	0.38	0.351
+Dimesna	0.336	0.299	0.38	0.324
+Roxithromycin 	0.336	0.339	0.38	0.364
+Phenazopyridine HCl	0.336	0.344	0.38	0.368
+Dioscin	0.336	0.967	0.38	0.990
+Guaifenesin 	0.336	0.314	0.38	0.336
+Gossypol	0.336	0.198	0.38	0.219
+Penicillin G Sodium	0.336	0.268	0.38	0.288
+Topiramate	0.336	0.328	0.38	0.348
+Methenamine 	0.336	0.325	0.38	0.346
+Bimatoprost	0.336	0.301	0.38	0.322
+Rifapentine 	0.336	0.313	0.38	0.331
+Oxeladin Citrate	0.336	0.309	0.38	0.325
+Lappaconite HBr	0.336	0.329	0.38	0.343
+Enrofloxacin	0.336	0.306	0.38	0.316
+Tanshinone IIA	0.336	0.146	0.38	0.155
+Asiatic Acid	0.336	0.296	0.38	0.305
+Prilocaine	0.336	0.357	0.38	0.366
+Cinepazide maleate	0.336	0.340	0.38	0.348
+Thalidomide	0.336	0.345	0.38	0.352
+Cefdinir 	0.336	0.334	0.38	0.340
+Sulbactam 	0.336	0.382	0.38	0.388
+Triclabendazole	0.336	0.421	0.38	0.426
+Levofloxacin	0.336	0.348	0.38	0.349
+Elaiophylin	0.336	0.999	0.38	1.000
+Zinc Pyrithione	0.336	1.000	0.38	1.000
+Talc	0.336	0.294	0.38	0.294
+Acetylcysteine	0.336	0.350	0.38	0.345
+Spectinomycin HCl	0.336	0.365	0.38	0.355
+Luliconazole	0.336	0.405	0.38	0.393
+Honokiol	0.336	0.335	0.38	0.324
+Adapalene	0.336	0.737	0.38	0.725
+Sorbitol	0.336	0.334	0.38	0.321
+Laquinimod	0.336	0.411	0.38	0.397
+Balofloxacin	0.336	0.339	0.38	0.325
+Calcitriol	0.336	0.223	0.38	0.208
+Melatonin	0.336	0.352	0.38	0.336
+Cefditoren Pivoxil	0.336	0.361	0.38	0.345
+Genipin	0.336	0.415	0.38	0.398
+Ethionamide	0.336	0.354	0.38	0.335
+(-)-Tetramisole	0.336	0.390	0.38	0.371
+BTZ043 Racemate	0.336	0.324	0.38	0.303
+Daptomycin	0.336	0.414	0.38	0.391
+Hordenine	0.336	0.334	0.38	0.311
+Zonisamide	0.336	0.357	0.38	0.334
+Tilmicosin	0.336	0.386	0.38	0.359
+Cysteamine HCl	0.336	0.286	0.38	0.259
+Vanillylacetone	0.336	0.329	0.38	0.299
+Olsalazine Sodium	0.336	0.337	0.38	0.305
+Alfacalcidol	0.336	0.230	0.38	0.198
+Meropenem	0.336	0.382	0.38	0.348
+Entecavir Hydrate	0.336	0.353	0.38	0.318
+Hematoxylin	0.336	0.349	0.38	0.314
+Caspofungin Acetate	0.336	0.385	0.38	0.350
+Gatifloxacin	0.336	0.359	0.38	0.321
+Nafcillin Sodium	0.336	0.366	0.38	0.327
+Amorolfine HCl	0.336	0.349	0.38	0.309
+Meglumine	0.336	0.404	0.38	0.361
+Ivermectin	0.336	0.337	0.38	0.292
+Malotilate	0.336	0.379	0.38	0.332
+Flucytosine	0.336	0.444	0.38	0.395
+Ammonium Glycyrrhizinate	0.336	0.365	0.38	0.314
+Foscarnet Sodium	0.336	0.450	0.38	0.392
+(+)-Matrine	0.336	0.383	0.38	0.318
+Hesperidin	0.336	0.401	0.38	0.335
+Diosmetin	0.336	0.334	0.38	0.266
+STF-62247	0.336	0.231	0.38	0.160
+Doxercalciferol	0.336	0.295	0.38	0.220
+Cefoselis Sulfate	0.336	0.382	0.38	0.303
+Calcifediol	0.336	0.293	0.38	0.212
+Doripenem Hydrate	0.336	0.375	0.38	0.278
+Rifampin	0.336	0.378	0.38	0.275
+Beta-Lapachone	0.336	0.286	0.38	0.124
+Crystal Violet	0.336	0.565	0.38	0.388
+2-Methoxyestradiol (2-MeOE2)	0.336	0.724	0.38	0.336
+Cepharanthine	0.336	0.180	0.38	0.474
+Paeoniflorin	0.336	0.155	0.38	0.477
+Tasisulam	0.336	0.136	0.38	0.456
+Oxfendazole	0.336	0.115	0.38	0.470
+Ethacridine lactate monohydrate	0.336	0.117	0.38	0.397
+Erdosteine	0.336	0.178	0.38	0.345
+Bromhexine HCl	0.336	0.344	0.38	0.365
+Suvorexant (MK-4305)	0.336	0.271	0.38	0.335
+SB408124	0.336	0.287	0.38	0.291
+MRS 2578	0.336	0.263	0.38	0.371
+Ticlopidine HCl	0.336	0.241	0.38	0.347
+Clopidogrel	0.336	0.309	0.38	0.355
+Prasugrel	0.336	0.348	0.38	0.347
+Ticagrelor	0.336	0.160	0.38	0.480
+LY2228820	0.336	0.162	0.38	0.375
+Skepinone-L	0.336	0.149	0.38	0.355
+PH-797804	0.336	0.176	0.38	0.371
+VX-702	0.336	0.247	0.38	0.368
+SB202190 (FHPI)	0.336	0.298	0.38	0.391
+VX-745	0.336	0.286	0.38	0.343
+BIRB 796 (Doramapimod)	0.336	0.284	0.38	0.335
+TAK-715	0.336	0.320	0.38	0.369
+SB203580	0.336	0.405	0.38	0.384
+NSC 319726	0.336	0.239	0.38	0.494
+Pifithrin-mu	0.336	0.210	0.38	0.416
+Pifithrin-alpha	0.336	0.214	0.38	0.412
+NMS-873	0.336	0.357	0.38	0.889
+DBeQ	0.336	0.087	0.38	0.362
+MNS (3,4-Methylenedioxy-beta-nitrostyrene, MDBN)	0.336	0.212	0.38	0.350
+Ginkgolide B	0.336	0.323	0.38	0.363
+IPA-3	0.336	0.198	0.38	0.391
+AZD2461	0.336	0.223	0.38	0.728
+Veliparib (ABT-888)	0.336	0.319	0.38	0.741
+Olaparib (AZD2281, Ku-0059436)	0.336	0.297	0.38	0.701
+PJ34	0.336	0.186	0.38	0.516
+UPF 1069	0.336	0.326	0.38	0.362
+Iniparib (BSI-201)	0.336	0.336	0.38	0.364
+INO-1001	0.336	0.338	0.38	0.330
+Rucaparib (AG-014699,PF-01367338)	0.336	0.374	0.38	0.665
+AG-14361	0.336	0.375	0.38	0.680
+Apremilast (CC-10004)	0.336	0.156	0.38	0.379
+Milrinone	0.336	0.205	0.38	0.425
+Anagrelide HCl	0.336	0.201	0.38	0.378
+GSK256066	0.336	0.279	0.38	0.423
+Luteolin	0.336	0.237	0.38	0.372
+Roflumilast 	0.336	0.279	0.38	0.412
+Dipyridamole	0.336	0.278	0.38	0.407
+Avanafil	0.336	0.256	0.38	0.377
+Icariin	0.336	0.232	0.38	0.348
+Aminophylline	0.336	0.221	0.38	0.325
+Vardenafil HCl Trihydrate	0.336	0.236	0.38	0.336
+Pimobendan	0.336	0.294	0.38	0.370
+Cilomilast	0.336	0.295	0.38	0.362
+Sildenafil Citrate	0.336	0.303	0.38	0.366
+Tadalafil	0.336	0.317	0.38	0.376
+Rolipram	0.336	0.306	0.38	0.352
+Cilostazol	0.336	0.259	0.38	0.288
+S-(+)-Rolipram	0.336	0.333	0.38	0.312
+Doxofylline	0.336	0.419	0.38	0.318
+CPI-613	0.336	0.216	0.38	0.379
+BX-912	0.336	0.326	0.38	0.545
+OSU-03012 (AR-12)	0.336	0.321	0.38	0.507
+BX-795	0.336	0.825	0.38	0.911
+PHT-427	0.336	0.287	0.38	0.363
+Pranoprofen	0.336	0.403	0.38	0.451
+Tariquidar	0.336	0.175	0.38	0.410
+Zosuquidar (LY335979) 3HCl	0.336	0.262	0.38	0.452
+IOX2	0.336	0.335	0.38	0.379
+FG-4592	0.336	0.402	0.38	0.355
+ZSTK474	0.336	0.270	0.38	0.677
+BYL719	0.336	0.248	0.38	0.607
+CH5132799	0.336	0.153	0.38	0.454
+GDC-0941	0.336	0.132	0.38	0.376
+A66	0.336	0.187	0.38	0.416
+IPI-145 (INK1197)	0.336	0.298	0.38	0.505
+CAL-101 (Idelalisib, GS-1101)	0.336	0.271	0.38	0.467
+AS-604850	0.336	0.217	0.38	0.399
+CAY10505	0.336	0.207	0.38	0.351
+TG100713	0.336	0.208	0.38	0.351
+TGX-221	0.336	0.298	0.38	0.431
+AZD6482	0.336	0.327	0.38	0.433
+CZC24832	0.336	0.270	0.38	0.369
+PIK-294	0.336	0.362	0.38	0.436
+XL147	0.336	0.331	0.38	0.387
+AS-252424	0.336	0.346	0.38	0.366
+LY294002	0.336	0.295	0.38	0.310
+BKM120 (NVP-BKM120, Buparlisib)	0.336	0.814	0.38	0.813
+PIK-293	0.336	0.349	0.38	0.345
+GSK2636771	0.336	0.377	0.38	0.360
+TG100-115	0.336	0.425	0.38	0.322
+3-Methyladenine	0.336	0.424	0.38	0.310
+GSK1059615	0.336	0.228	0.38	0.688
+PI-103	0.336	0.159	0.38	0.398
+PF-05212384 (PKI-587)	0.336	0.672	0.38	0.763
+GSK2126458 (GSK458)	0.336	0.875	0.38	0.928
+PF-04691502	0.336	0.953	0.38	0.991
+GDC-0980 (RG7422)	0.336	0.317	0.38	0.352
+SAR245409 (XL765)	0.336	0.376	0.38	0.384
+BGT226 (NVP-BGT226)	0.336	1.000	0.38	1.000
+BEZ235 (NVP-BEZ235, Dactolisib)	0.336	0.142	0.38	0.455
+Wortmannin	0.336	0.303	0.38	0.467
+PIK-93	0.336	0.310	0.38	0.633
+YM201636	0.336	0.095	0.38	0.279
+SGI-1776 free base	0.336	0.245	0.38	0.991
+SMI-4a	0.336	0.330	0.38	0.323
+H 89 2HCl	0.336	0.177	0.38	0.376
+Go 6983	0.336	0.351	0.38	0.637
+Sotrastaurin	0.336	0.205	0.38	0.348
+Quercetin	0.336	0.140	0.38	0.402
+Quercetin Dihydrate	0.336	0.236	0.38	0.394
+Varespladib (LY315920)	0.336	0.403	0.38	0.334
+Tranexamic Acid 	0.336	0.262	0.38	0.378
+BI 2536	0.336	0.741	0.38	0.910
+Rigosertib (ON-01910)	0.336	0.710	0.38	0.865
+GSK461364	0.336	0.665	0.38	0.765
+HMN-214	0.336	0.803	0.38	0.817
+Volasertib (BI 6727)	0.336	0.724	0.38	0.717
+IWP-L6	0.336	0.378	0.38	0.886
+LGK-974	0.336	0.084	0.38	0.292
+Wnt-C59 (C59)	0.336	0.169	0.38	0.277
+Tolbutamide	0.336	0.261	0.38	0.575
+Glyburide	0.336	0.247	0.38	0.425
+Nateglinide	0.336	0.168	0.38	0.342
+Gliclazide 	0.336	0.264	0.38	0.405
+Gliquidone	0.336	0.263	0.38	0.370
+Zoxazolamine	0.336	0.261	0.38	0.338
+Nicorandil	0.336	0.235	0.38	0.310
+Amiodarone HCl	0.336	0.240	0.38	0.304
+Hydralazine HCl	0.336	0.266	0.38	0.321
+ML133 HCl	0.336	0.323	0.38	0.378
+Dofetilide 	0.336	0.338	0.38	0.376
+Glipizide 	0.336	0.310	0.38	0.344
+Methocarbamol 	0.336	0.350	0.38	0.376
+TAK-438	0.336	0.399	0.38	0.401
+Chlorpropamide	0.336	0.354	0.38	0.349
+Repaglinide	0.336	0.405	0.38	0.361
+Flupirtine maleate	0.336	0.460	0.38	0.335
+Chlorpromazine HCl	0.336	0.246	0.38	0.343
+Dronedarone HCl	0.336	0.294	0.38	0.342
+Salubrinal	0.336	0.147	0.38	0.508
+WY-14643 (Pirinixic Acid)	0.336	0.193	0.38	0.391
+GSK3787	0.336	0.251	0.38	0.421
+Clofibric Acid	0.336	0.207	0.38	0.371
+Pioglitazone 	0.336	0.143	0.38	0.299
+Ciprofibrate	0.336	0.206	0.38	0.346
+GW0742	0.336	0.225	0.38	0.357
+Daidzein	0.336	0.255	0.38	0.375
+Bezafibrate	0.336	0.240	0.38	0.350
+T0070907	0.336	0.250	0.38	0.343
+Pioglitazone HCl	0.336	0.227	0.38	0.319
+Etofibrate	0.336	0.267	0.38	0.355
+Fenofibrate 	0.336	0.251	0.38	0.337
+Gemfibrozil 	0.336	0.310	0.38	0.370
+GW9662	0.336	0.270	0.38	0.329
+Rosiglitazone 	0.336	0.276	0.38	0.297
+UK 383367	0.336	0.174	0.38	0.328
+ML161	0.336	0.285	0.38	0.386
+Epoxomicin	0.336	0.194	0.38	0.321
+ONX-0914 (PR-957)	0.336	0.993	0.38	1.000
+MLN9708	0.336	0.992	0.38	0.999
+CEP-18770 (Delanzomib)	0.336	0.992	0.38	0.998
+Carfilzomib (PR-171)	0.336	0.995	0.38	0.998
+Bortezomib (PS-341)	0.336	0.995	0.38	0.997
+MG-132	0.336	0.996	0.38	0.998
+Oprozomib (ONX 0912)	0.336	0.998	0.38	1.000
+MLN2238	0.336	0.999	0.38	1.000
+Fenoprofen Calcium	0.336	0.353	0.38	0.329
+RI-1	0.336	0.195	0.38	0.364
+TAK-632	0.336	0.412	0.38	0.716
+AZ 628	0.336	0.223	0.38	0.465
+PF-04880594	0.336	0.189	0.38	0.397
+SB590885	0.336	0.178	0.38	0.358
+Dabrafenib (GSK2118436)	0.336	0.265	0.38	0.405
+Vemurafenib (PLX4032, RG7204)	0.336	0.269	0.38	0.402
+PLX-4720	0.336	0.418	0.38	0.513
+ZM 336372	0.336	0.388	0.38	0.473
+GW5074	0.336	0.344	0.38	0.379
+GDC-0879	0.336	0.588	0.38	0.369
+RAF265 (CHIR-265)	0.336	0.131	0.38	0.295
+Sorafenib Tosylate	0.336	0.303	0.38	0.322
+Sorafenib	0.336	0.314	0.38	0.394
+Aliskiren Hemifumarate	0.336	0.306	0.38	0.356
+TTNPB (Arotinoid Acid)	0.336	0.383	0.38	0.570
+Dapivirine (TMC120)	0.336	0.309	0.38	0.687
+Nevirapine 	0.336	0.101	0.38	0.328
+Rilpivirine	0.336	0.344	0.38	0.559
+Stavudine (d4T)	0.336	0.298	0.38	0.429
+Zalcitabine	0.336	0.181	0.38	0.306
+Didanosine	0.336	0.243	0.38	0.366
+Adefovir Dipivoxil 	0.336	0.280	0.38	0.401
+Zidovudine 	0.336	0.281	0.38	0.374
+Lamivudine 	0.336	0.256	0.38	0.339
+Tenofovir 	0.336	0.308	0.38	0.390
+Emtricitabine 	0.336	0.295	0.38	0.321
+Tenofovir Disoproxil Fumarate	0.336	0.340	0.38	0.349
+Etravirine (TMC125)	0.336	0.061	0.38	0.353
+CCG 50014	0.336	0.170	0.38	0.376
+Necrostatin-1	0.336	0.355	0.38	0.562
+Thiazovivin	0.336	0.255	0.38	0.403
+GSK429286A	0.336	0.314	0.38	0.425
+RKI-1447	0.336	0.259	0.38	0.318
+Y-27632 2HCl	0.336	0.391	0.38	0.355
+Fasudil (HA-1077) HCl	0.336	0.350	0.38	0.338
+NXY-059 	0.336	0.162	0.38	0.307
+Sodium 4-Aminosalicylate	0.336	0.224	0.38	0.349
+(-)-Epigallocatechin Gallate	0.336	0.253	0.38	0.378
+Tenoxicam	0.336	0.286	0.38	0.373
+EUK 134	0.336	0.347	0.38	0.432
+Idebenone	0.336	0.242	0.38	0.327
+Dihydromyricetin	0.336	0.264	0.38	0.339
+Ferrostatin-1 (Fer-1)	0.336	0.298	0.38	0.350
+Mesalamine	0.336	0.324	0.38	0.373
+Naringenin	0.336	0.291	0.38	0.312
+Neohesperidin	0.336	0.318	0.38	0.337
+Nicaraven	0.336	0.315	0.38	0.320
+Caffeic Acid	0.336	0.325	0.38	0.326
+Probucol	0.336	0.341	0.38	0.342
+Tempol	0.336	0.391	0.38	0.384
+Edaravone	0.336	0.384	0.38	0.357
+Caffeic Acid Phenethyl Ester	0.336	0.390	0.38	0.472
+BI-D1870	0.336	0.360	0.38	0.388
+LDK378	0.336	0.142	0.38	0.882
+Alectinib (CH5424802)	0.336	0.121	0.38	0.334
+AP26113	0.336	0.276	0.38	0.417
+GSK1838705A	0.336	0.153	0.38	0.426
+AZD3463	0.336	0.754	0.38	0.974
+Dovitinib (TKI-258, CHIR-258)	0.336	0.167	0.38	0.882
+Cediranib (AZD2171)	0.336	0.368	0.38	0.927
+BMS-777607	0.336	0.366	0.38	0.452
+Pazopanib	0.336	0.181	0.38	0.793
+AZD4547	0.336	0.191	0.38	0.810
+Dacomitinib (PF299804, PF299)	0.336	0.111	0.38	0.647
+GW2580	0.336	0.223	0.38	0.426
+Linifanib (ABT-869)	0.336	0.375	0.38	0.570
+CUDC-101	0.336	0.614	0.38	0.999
+Cabozantinib (XL184, BMS-907351)	0.336	0.386	0.38	0.791
+Quizartinib (AC220)	0.336	0.191	0.38	0.694
+Icotinib	0.336	0.259	0.38	0.485
+AST-1306	0.336	0.213	0.38	0.427
+WHI-P154	0.336	0.246	0.38	0.459
+TAK-285	0.336	0.271	0.38	0.476
+AG-1478 (Tyrphostin AG-1478)	0.336	0.228	0.38	0.418
+Afatinib (BIBW2992)	0.336	0.355	0.38	0.527
+AC480 (BMS-599626)	0.336	0.255	0.38	0.421
+WZ8040	0.336	0.188	0.38	0.350
+Pelitinib (EKB-569)	0.336	0.227	0.38	0.381
+Neratinib (HKI-272)	0.336	0.288	0.38	0.428
+CP-724714	0.336	0.213	0.38	0.343
+AZD8931 (Sapitinib)	0.336	0.319	0.38	0.443
+HER2-Inhibitor-1	0.336	0.316	0.38	0.440
+PD168393	0.336	0.336	0.38	0.453
+Tyrphostin AG 879	0.336	0.229	0.38	0.329
+Lapatinib (GW-572016) Ditosylate	0.336	0.287	0.38	0.387
+Erlotinib HCl (OSI-744)	0.336	0.271	0.38	0.367
+Mubritinib (TAK 165)	0.336	0.192	0.38	0.283
+WZ4002	0.336	0.278	0.38	0.369
+Varlitinib	0.336	0.354	0.38	0.430
+Canertinib (CI-1033)	0.336	0.347	0.38	0.420
+AG-490 (Tyrphostin B42)	0.336	0.357	0.38	0.429
+Gefitinib (ZD1839)	0.336	0.324	0.38	0.391
+AG-18	0.336	0.338	0.38	0.402
+Genistein	0.336	0.331	0.38	0.387
+OSI-420	0.336	0.263	0.38	0.303
+Tyrphostin 9 	0.336	0.076	0.38	0.114
+CO-1686 (AVL-301)	0.336	0.421	0.38	0.436
+Tivozanib (AV-951)	0.336	0.237	0.38	0.734
+AEE788 (NVP-AEE788)	0.336	0.154	0.38	0.698
+BGJ398 (NVP-BGJ398)	0.336	0.097	0.38	0.252
+SSR128129E	0.336	0.285	0.38	0.336
+PD173074	0.336	0.087	0.38	0.345
+TCS 359	0.336	0.227	0.38	0.355
+KW-2449	0.336	0.472	0.38	0.745
+Lenvatinib (E7080)	0.336	0.251	0.38	0.713
+ENMD-2076	0.336	0.877	0.38	0.994
+Amuvatinib (MP-470)	0.336	0.110	0.38	0.638
+WZ3146	0.336	0.249	0.38	0.627
+Dovitinib (TKI-258) Dilactic Acid  	0.336	0.340	0.38	0.854
+MK-2461	0.336	0.157	0.38	0.643
+TAE684 (NVP-TAE684)	0.336	0.346	0.38	0.654
+NVP-ADW742	0.336	0.219	0.38	0.357
+AG-1024 	0.336	0.232	0.38	0.303
+NVP-AEW541	0.336	0.210	0.38	0.451
+GSK1904529A	0.336	0.228	0.38	0.393
+OSI-906 (Linsitinib)	0.336	0.237	0.38	0.396
+BMS-754807	0.336	0.693	0.38	0.864
+Golvatinib (E7050)	0.336	0.100	0.38	0.515
+OSI-930	0.336	0.399	0.38	0.561
+CEP-32496	0.336	0.368	0.38	0.549
+Masitinib (AB1010)	0.336	0.303	0.38	0.562
+Tandutinib (MLN518)	0.336	0.321	0.38	0.581
+INCB28060	0.336	0.192	0.38	0.420
+AMG-458	0.336	0.269	0.38	0.484
+NVP-BVU972	0.336	0.318	0.38	0.411
+SGX-523	0.336	0.394	0.38	0.479
+PF-04217903	0.336	0.331	0.38	0.415
+JNJ-38877605	0.336	0.342	0.38	0.406
+Crizotinib (PF-02341066)	0.336	0.575	0.38	0.592
+Foretinib (GSK1363089)	0.336	0.820	0.38	0.986
+BMS-794833	0.336	0.310	0.38	0.502
+MGCD-265	0.336	0.220	0.38	0.381
+Vatalanib (PTK787) 2HCl	0.336	0.273	0.38	0.607
+PQ 401	0.336	0.186	0.38	0.530
+CP-673451	0.336	0.530	0.38	0.783
+PP121	0.336	0.814	0.38	0.969
+Tyrphostin AG 1296	0.336	0.190	0.38	0.419
+KRN 633	0.336	0.247	0.38	0.557
+Regorafenib (BAY 73-4506)	0.336	0.245	0.38	0.355
+Telatinib	0.336	0.188	0.38	0.517
+SAR131675	0.336	0.185	0.38	0.467
+Tie2 kinase inhibitor	0.336	0.085	0.38	0.342
+Semaxanib (SU5416)	0.336	0.359	0.38	0.561
+Apatinib	0.336	0.158	0.38	0.352
+Vandetanib (ZD6474)	0.336	0.306	0.38	0.467
+ZM 323881 HCl	0.336	0.302	0.38	0.356
+Crenolanib (CP-868596)	0.336	0.446	0.38	0.786
+Brivanib (BMS-540215)	0.336	0.266	0.38	0.344
+Brivanib Alaninate (BMS-582664)	0.336	0.310	0.38	0.313
+Motesanib Diphosphate (AMG-706)	0.336	0.431	0.38	0.498
+Ki8751	0.336	0.473	0.38	0.564
+Pazopanib HCl (GW786034 HCl)	0.336	0.727	0.38	0.750
+Axitinib	0.336	0.595	0.38	0.834
+ZM 306416	0.336	0.306	0.38	0.454
+Bexarotene	0.336	0.286	0.38	0.538
+Tamibarotene	0.336	0.324	0.38	0.559
+Tretinoin	0.336	0.428	0.38	0.522
+Chlorocresol	0.336	0.231	0.38	0.268
+SKI II	0.336	0.165	0.38	0.324
+Fingolimod (FTY720) HCl	0.336	0.076	0.38	0.226
+PF-4708671	0.336	0.121	0.38	0.369
+MK-8245	0.336	0.407	0.38	0.788
+PluriSIn 1 (NSC 14613)	0.336	0.580	0.38	0.396
+Gabexate Mesylate	0.336	0.308	0.38	0.390
+Nafamostat Mesylate	0.336	0.396	0.38	0.359
+Dapagliflozin	0.336	0.248	0.38	0.393
+Empagliflozin (BI 10773)	0.336	0.242	0.38	0.378
+Canagliflozin	0.336	0.312	0.38	0.361
+Fisetin	0.336	0.197	0.38	0.379
+Sirtinol	0.336	0.203	0.38	0.355
+EX 527 (Selisistat)	0.336	0.263	0.38	0.327
+Resveratrol	0.336	0.309	0.38	0.361
+SRT1720	0.336	0.338	0.38	0.379
+Tenovin-1	0.336	0.440	0.38	0.456
+Bendroflumethiazide	0.336	0.216	0.38	0.326
+Meticrane	0.336	0.272	0.38	0.378
+Torsemide 	0.336	0.298	0.38	0.391
+Hydrochlorothiazide	0.336	0.246	0.38	0.328
+Trichlormethiazide 	0.336	0.257	0.38	0.321
+Indapamide 	0.336	0.330	0.38	0.387
+Furosemide 	0.336	0.328	0.38	0.376
+Chlorothiazide	0.336	0.381	0.38	0.405
+Bumetanide	0.336	0.345	0.38	0.348
+Metolazone 	0.336	0.377	0.38	0.361
+Reboxetine mesylate	0.336	0.330	0.38	0.336
+Maprotiline HCl	0.336	0.320	0.38	0.290
+Milnacipran HCl	0.336	0.320	0.38	0.369
+Nefopam HCl	0.336	0.322	0.38	0.342
+Amfebutamone HCl	0.336	0.213	0.38	0.334
+Paroxetine HCl	0.336	0.153	0.38	0.378
+Desvenlafaxine	0.336	0.190	0.38	0.409
+Escitalopram Oxalate	0.336	0.191	0.38	0.348
+Desvenlafaxine Succinate	0.336	0.182	0.38	0.326
+Trazodone HCl 	0.336	0.283	0.38	0.368
+Vilazodone HCl	0.336	0.290	0.38	0.359
+Dapoxetine HCl 	0.336	0.268	0.38	0.326
+Fluoxetine HCl	0.336	0.285	0.38	0.327
+Fluvoxamine maleate	0.336	0.328	0.38	0.325
+Tianeptine sodium	0.336	0.369	0.38	0.356
+Duloxetine HCl	0.336	0.151	0.38	0.296
+Venlafaxine	0.336	0.311	0.38	0.365
+Imipramine HCl	0.336	0.208	0.38	0.339
+BMS-833923	0.336	0.161	0.38	0.323
+LDE225 (NVP-LDE225,Erismodegib)	0.336	0.159	0.38	0.318
+PF-5274857	0.336	0.234	0.38	0.360
+Purmorphamine	0.336	0.211	0.38	0.330
+SANT-1	0.336	0.274	0.38	0.261
+Vismodegib (GDC-0449)	0.336	0.319	0.38	0.287
+Dyclonine HCl	0.336	0.142	0.38	0.348
+Riluzole	0.336	0.159	0.38	0.341
+Benzocaine	0.336	0.275	0.38	0.449
+Primidone 	0.336	0.192	0.38	0.360
+Triamterene	0.336	0.218	0.38	0.372
+Propafenone HCl	0.336	0.229	0.38	0.374
+Ambroxol HCl	0.336	0.237	0.38	0.379
+Carbamazepine 	0.336	0.235	0.38	0.376
+Articaine HCl	0.336	0.245	0.38	0.361
+Oxybuprocaine HCl	0.336	0.145	0.38	0.252
+Ibutilide Fumarate	0.336	0.203	0.38	0.309
+Mexiletine HCl	0.336	0.240	0.38	0.340
+Ouabain	0.336	0.475	0.38	0.562
+Ranolazine 2HCl	0.336	0.268	0.38	0.354
+Amiloride HCl 	0.336	0.293	0.38	0.376
+Phenytoin sodium	0.336	0.277	0.38	0.357
+A-803467	0.336	0.265	0.38	0.342
+Ranolazine 	0.336	0.300	0.38	0.374
+Bupivacaine HCl 	0.336	0.278	0.38	0.350
+Pramoxine HCl	0.336	0.264	0.38	0.314
+Phenytoin	0.336	0.298	0.38	0.340
+Proparacaine HCl	0.336	0.314	0.38	0.354
+Sodium Picosulfate	0.336	0.385	0.38	0.425
+Dibucaine HCl	0.336	0.305	0.38	0.336
+Mepivacaine HCl	0.336	0.363	0.38	0.388
+Oxcarbazepine	0.336	0.367	0.38	0.349
+Rufinamide	0.336	0.370	0.38	0.348
+Ropivacaine HCl	0.336	0.321	0.38	0.292
+Tolperisone HCl	0.336	0.207	0.38	0.363
+SRPIN340	0.336	0.216	0.38	0.366
+Stattic	0.336	0.194	0.38	0.591
+Cryptotanshinone	0.336	0.166	0.38	0.223
+S3I-201	0.336	0.362	0.38	0.356
+YM155 (Sepantronium Bromide)	0.336	0.913	0.38	0.966
+Levetiracetam	0.336	0.348	0.38	0.317
+Erastin	0.336	0.613	0.38	0.872
+Sulfasalazine	0.336	0.327	0.38	0.357
+Fosaprepitant dimeglumine salt	0.336	0.255	0.38	0.341
+Aprepitant	0.336	0.269	0.38	0.334
+Doxapram HCl	0.336	0.270	0.38	0.308
+BIBR 1532	0.336	0.363	0.38	0.349
+Dabigatran Etexilate	0.336	0.292	0.38	0.389
+Argatroban	0.336	0.304	0.38	0.310
+Eltrombopag	0.336	0.172	0.38	0.408
+Ozagrel HCl	0.336	0.259	0.38	0.365
+Ozagrel	0.336	0.295	0.38	0.380
+Methimazole 	0.336	0.365	0.38	0.362
+Imiquimod	0.336	0.305	0.38	0.351
+Pomalidomide	0.336	0.230	0.38	0.378
+Lenalidomide (CC-5013)	0.336	0.301	0.38	0.329
+QNZ (EVP4593)	0.336	0.191	0.38	0.379
+XAV-939	0.336	0.288	0.38	0.381
+Irinotecan	0.336	0.405	0.38	0.494
+Topotecan HCl	0.336	0.790	0.38	0.869
+SN-38	0.336	0.853	0.38	0.861
+Camptothecin	0.336	0.868	0.38	0.857
+Irinotecan HCl Trihydrate	0.336	0.757	0.38	0.746
+Etoposide	0.336	0.443	0.38	0.704
+Flumequine	0.336	0.211	0.38	0.349
+Teniposide	0.336	0.889	0.38	0.947
+Doxorubicin (Adriamycin)	0.336	0.531	0.38	0.503
+Amonafide	0.336	0.561	0.38	0.519
+Epirubicin HCl	0.336	0.600	0.38	0.553
+Pirarubicin	0.336	0.750	0.38	0.628
+Mitoxantrone HCl	0.336	0.333	0.38	0.003
+Carbimazole	0.336	0.167	0.38	0.366
+Propylthiouracil	0.336	0.260	0.38	0.372
+Methylthiouracil	0.336	0.257	0.38	0.333
+2-Thiouracil	0.336	0.337	0.38	0.350
+GW441756	0.336	0.092	0.38	0.354
+Levosimendan	0.336	0.267	0.38	0.303
+HC-030031	0.336	0.236	0.38	0.368
+SB705498	0.336	0.212	0.38	0.361
+AMG-517	0.336	0.311	0.38	0.378
+AZ 3146	0.336	0.602	0.38	0.627
+Arbutin	0.336	0.183	0.38	0.381
+Deoxyarbutin	0.336	0.256	0.38	0.370
+Mozavaptan	0.336	0.307	0.38	0.775
+Tolvaptan	0.336	0.181	0.38	0.320
+Conivaptan HCl 	0.336	0.278	0.38	0.364
+DMXAA (Vadimezan)	0.336	0.235	0.38	0.332
+Reserpine	0.336	0.270	0.38	0.333
+MK-1775	0.336	0.757	0.38	0.783
+KY02111	0.336	0.147	0.38	0.353
+IWR-1-endo	0.336	0.249	0.38	0.365
+ICG-001	0.336	0.169	0.38	0.275
+Febuxostat	0.336	0.217	0.38	0.343
+Allopurinol 	0.336	0.253	0.38	0.368
+Triptolide (PG490)	0.336	0.606	0.38	0.768
