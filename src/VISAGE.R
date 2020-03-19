@@ -4,8 +4,8 @@ all_files <- list.files("../data/VISAGE/")
 cell_names <- sub('.txt', '', all_files)
 drug_names <- c("BI2536", "TH588")
 
-master_drugs <- read.table("../data/master_mapping_drug.txt", header=T, sep="\t", stringsAsFactor=F)
-master_cells <- read.table("../data/master_mapping_sample.txt", header=T, sep="\t", stringsAsFactor=F)
+master_drugs <- read.table("../data/resource/master_mapping_drug.txt", header=T, sep="\t", stringsAsFactor=F)
+master_cells <- read.table("../data/resource/master_mapping_sample.txt", header=T, sep="\t", stringsAsFactor=F)
 
 outfile_stats <- c()
 
@@ -149,7 +149,7 @@ for(cell_name in cell_names) {
 } 
 
 colnames(outfile_stats) <- c("idSample", "idDrugA", "idDrugB", "Bliss", "Loewe", "HSA", "ZIP")
-write.table(outfile_stats, file="tbl.visage.combo_summary.txt", row.names=F, col.names=F, quote=F, sep="\t")
+write.table(outfile_stats, file="../output/tbl.visage.combo_summary.txt", row.names=F, col.names=F, quote=F, sep="\t")
 
 write.table(raw_matrix, file=paste("../output/tbl.visage.raw.txt",sep =""), row.names=F, col.names=T, quote=F, sep="\t")
 write.table(bliss_matrix, file=paste("../output/tbl.visage.bliss.txt",sep =""), row.names=F, col.names=T, quote=F, sep="\t")
