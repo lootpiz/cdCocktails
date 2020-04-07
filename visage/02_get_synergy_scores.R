@@ -140,10 +140,10 @@ for(cell_name in cell_names) {
 } 
 
 write.table(synergy_scores, file="tbl.visage.combo_summary.txt", row.names=F, col.names=F, quote=F, sep="\t")
-write.table(raw_matrix, file=paste("tbl.visage.raw.txt",sep =""), row.names=F, col.names=T, quote=F, sep="\t")
-write.table(bliss_matrix, file=paste("tbl.visage.bliss.txt",sep =""), row.names=F, col.names=T, quote=F, sep="\t")
-write.table(loewe_matrix, file=paste("tbl.visage.loewe.txt",sep =""), row.names=F, col.names=T, quote=F, sep="\t")
-write.table(hsa_matrix, file=paste("tbl.visage.hsa.txt",sep =""), row.names=F, col.names=T, quote=F, sep="\t")
-write.table(zip_matrix, file=paste("tbl.visage.zip.txt",sep =""), row.names=F, col.names=T, quote=F, sep="\t")
+write.table(raw_matrix, file=paste("tbl.visage.raw.txt",sep =""), row.names=F, col.names=F, quote=F, sep="\t")
+write.table(bliss_matrix, file=paste("tbl.visage.bliss.txt",sep =""), row.names=F, col.names=F, quote=F, sep="\t")
+write.table(loewe_matrix, file=paste("tbl.visage.loewe.txt",sep =""), row.names=F, col.names=F, quote=F, sep="\t")
+write.table(hsa_matrix, file=paste("tbl.visage.hsa.txt",sep =""), row.names=F, col.names=F, quote=F, sep="\t")
+write.table(zip_matrix, file=paste("tbl.visage.zip.txt",sep =""), row.names=F, col.names=F, quote=F, sep="\t")
 
 quit("no")
