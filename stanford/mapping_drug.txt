@@ -1,0 +1,2029 @@
+name	id
+MK-8776	1
+AZD1775	2
+MK-1775	2
+Allopurinol	3
+Altretamine	4
+Amifostine	5
+5-Aminolevulinic acid HCl	6
+Aminolevulinic_acid_hydrochloride	6
+Anastrozole	7
+Azacitidine	8
+Azacitidine 	8
+bendamustine_hydrochloride	9
+Bleomycin_sulfate	10
+Bortezomib	11
+Bortezomib (PS-341)	11
+Busulfan	12
+Busulfan 	12
+Capecitabine	13
+Capecitabine 	13
+Carboplatin	14
+Carmustine	15
+Celecoxib	16
+Chlorambucil	17
+Cladribine	18
+Clofarabine	19
+Cyclophosphamide	20
+Cytarabine	21
+Cytarabine_hydrochloride	21
+Dacarbazine	22
+Dactinomycin	23
+Dasatinib	24
+Daunorubicin_hydrochloride	25
+Decitabine	26
+Dexamethasone	27
+Dexamethasone (DHAP)	27
+Dexrazoxane	28
+Cisplatin	29
+Arsenic_trioxide	30
+Dinaciclib	31
+Dinaciclib (SCH727965)	31
+Docetaxel	32
+Doxorubicin	33
+Doxorubicin_hydrochloride	33
+Erlotinib	34
+Erlotinib_hydrochloride	34
+Estramustine_phosphate_sodium	35
+Etoposide	36
+TOP2_2	36
+Everolimus	37
+Everolimus (RAD001)	37
+MTOR_3	37
+Exemestane	38
+Floxuridine	39
+2-Fluoro_Ara-A	40
+5-fluorouracil	41
+5-Fluorouracil	41
+5-FU	41
+Fluorouracil	41
+Fluorouracil (5-Fluoracil, 5-FU)	41
+ESR1_1	42
+Fulvestrant	42
+EGFR_2	43
+Gefitinib	43
+Gefitinib (ZD1839)	43
+geldanamycin	44
+Geldanamycin	44
+Gemcitabine	45
+Gemcitabine 	45
+Gemcitabine_hydrochloride	45
+Hydroxyurea	46
+Ifosfamide	47
+Imatinib	48
+Imatinib (STI571)	48
+Imatinib_mesylate	48
+Imiquimod	49
+BEZ-235	50
+Ixabepilone	51
+Lapatinib	52
+Lapatinib_ditosylate	52
+MK-5108	53
+MK-5108 (VX-689)	53
+Lenalidomide	54
+Lenalidomide (CC-5013)	54
+Letrozole	55
+Lomustine	56
+Lomustine 	56
+Mechlorethamine_hydrochloride	57
+Megestrol Acetate	58
+Megestrol_acetate	58
+Melphalan	59
+Quinacrine_hydrochloride	60
+6-Mercaptopurine	61
+Mercaptopurine	61
+Mercaptopurine (6-MP)	61
+Metformin	62
+Methotrexate	63
+Methoxsalen	64
+Mitomycin	65
+Mitomycine	65
+Mitotane	66
+Mitotane 	66
+Mitoxantrone	67
+AKT_1	68
+MK-2206	68
+PD0325901	69
+PD325901	69
+Nelarabine	70
+Nelarabine 	70
+Nilotinib	71
+Nilotinib (AMN-107)	71
+MK-4827	72
+MRK-003	73
+MK-4541	74
+Oxaliplatin	75
+CarboTaxol	76
+Paclitaxel	76
+Pemetrexed_Disodium	77
+Pentostatin	78
+Pipobroman	79
+Plicamycin	80
+pralatrexate	81
+Pralatrexate 	81
+Procarbazine_hydrochloride	82
+Raloxifene_hydrochloride	83
+MK-8669	84
+Ridaforolimus (Deforolimus, MK-8669)	84
+Romidepsin	85
+Rapamycin (Sirolimus)	86
+Sirolimus	86
+7-Ethyl-10-hydroxycamptothecin	87
+SN-38	87
+SN38	87
+Sorafenib	88
+Sorafenib_tosylate	88
+Streptozocin	89
+Streptozotocin (STZ)	89
+Sunitinib	90
+ESR1_3	91
+Tamoxifen_citrate	91
+Temozolomide	92
+Teniposide	93
+Thalidomide	94
+Thioguanine	95
+Thiotepa	96
+Topotecan	97
+Topotecan_hydrochloride	97
+Tretinoin	98
+Triethylenemelamine	99
+Uracil_mustard	100
+Valrubicin	101
+ABT-888	102
+Veliparib (ABT-888)	102
+Vinblastine	103
+Vinblastine_sulfate	103
+Vincristine	104
+Vincristine_sulfate	104
+Vinorelbine	105
+Vinorelbine_tartrate	105
+HDAC_4	106
+Vorinostat	106
+Vorinostat (SAHA, MK0683)	106
+Zolinza	106
+L778123	107
+Zoledronic Acid 	108
+Zoledronic_acid	108
+Chloroquine	109
+Carfilzomib	110
+Carfilzomib (PR-171)	110
+Proteasome_2	110
+IGFR_3	111
+OSI-906 (Linsitinib)	111
+AZD4547	112
+FGFR	112
+ATM	113
+KU-60019	113
+ATR_4	114
+IGFR_4	115
+AZD-8055	116
+AZD8055	116
+MTOR	116
+AZD2014	117
+MTOR_1	117
+BKM120 (NVP-BKM120, Buparlisib)	118
+PIK3C_2	118
+AZD-7762	119
+AZD7762	119
+CHEK1	119
+AKT	120
+AZD5363	120
+FASN	121
+PIM1	122
+Olaparib (AZD2281, Ku-0059436)	123
+PARP1	123
+NU7441 (KU-57788)	124
+TOP2	124
+CSNK2A1_2	125
+PIK3CB_PIK3CD	126
+R406 (free base)	127
+SYK	127
+ABT-263 (Navitoclax)	128
+BCL2	128
+PTK2	129
+BYL-719	130
+BYL719	130
+PIK3CA_4	130
+GSK1120212	131
+MAP2K_3	131
+Trametinib (GSK1120212)	131
+AZD-1480	132
+JAK	132
+Afatinib (BIBW2992)	133
+BIBW-2992	133
+EGFR	133
+BCL2_BCL2L1	134
+TKI	135
+Vandetanib (ZD6474)	135
+ALK	136
+MAP2K_1	137
+Selumetinib (AZD6244)	137
+AZD8931 (Sapitinib)	138
+ERBB	138
+ALK_IGFR	139
+AZD3463	139
+GDC-0941	140
+PIK3C	140
+BCL2L1	141
+BRAF_M	142
+ADAM17	143
+AKT_SGK	144
+ALK_2	145
+BCL2_2	146
+BCL2_BCL2L1_BCL2L2	147
+BRAF_M2	148
+EG5	149
+ESR1	150
+HSP90	151
+IAP	152
+PIK3C_MTOR	153
+PIK3CA_3	154
+PIK3CB	155
+PIP5K1	156
+SLC16A4	157
+TNF	158
+TNFSF10	159
+TNKS_PARP6	160
+WNT	161
+17-DMAG	162
+17-DMAG (Alvespimycin) HCl	162
+ABT-199	163
+ABT-199 (GDC-0199)	163
+BI 2536	164
+BI-2536	164
+BRD-7389	165
+CMPD-1	166
+CREBi1	167
+Crizotinib	168
+Crizotinib (PF-02341066)	168
+Dovitinib	169
+Flavopiridol	170
+Foretinib	171
+Foretinib (GSK1363089)	171
+GSK2334470	172
+GSK650394A	173
+IMD 0354	174
+(+)-JQ1	175
+JQ1	175
+MLN-4924	176
+Alisertib (MLN8237)	177
+MLN-8237	177
+Oligomycin	178
+PF-431396	179
+Piperlongumine	180
+SB225002	181
+Simvastatin	182
+Simvastatin 	182
+Thapsigargin	183
+YM155	184
+YM155 (Sepantronium Bromide)	184
+Alectinib (CH5424802)	187
+AR-A014418	188
+BAY 11-7082	190
+BI-D1870	191
+BMS-754807	192
+Bosutinib (SKI-606)	193
+Curcumin	197
+CYT387	198
+Dapagliflozin	199
+Embelin	203
+GSK690693	208
+SP600125	214
+ML130 (Nodinitib-1)	216
+Entinostat (MS-275)	217
+Nutlin-3	220
+LDE225 (NVP-LDE225,Erismodegib)	222
+TAE684 (NVP-TAE684)	223
+Obatoclax Mesylate (GX15-070)	224
+Orlistat 	225
+PD173074	228
+Ritonavir	235
+Rosiglitazone 	237
+Elesclomol (STA-4783)	239
+Stattic	240
+Temsirolimus (CCI-779, NSC 683864)	242
+Tipifarnib 	244
+VX-680 (Tozasertib, MK-0457)	246
+Trifluoperazine	248
+Trifluridine 	249
+Triptolide (PG490)	250
+Vemurafenib (PLX4032, RG7204)	252
+Vismodegib (GDC-0449)	254
+WZ4002	255
+XAV-939	256
+Cabozantinib (XL184, BMS-907351)	257
+Zibotentan (ZD4054)	258
+Albendazole	259
+Aprepitant	260
+Dihydroartemisinin	261
+Dihydroartemisinin (DHA)	261
+Carisoprodol	262
+Cerivastatin	263
+Chlorzoxazone	264
+Cinacalcet	265
+Clofarabine active form	266
+Cycloguanil	267
+Diazoxide	268
+Dipyridamole	269
+Dronedarone	270
+Eflornithine	271
+Ethinyl Estradiol	272
+Febuxostat	273
+Halofantrine	274
+Irinotecan	275
+Isoniazid	276
+Itraconazole	277
+Leflunomide	278
+Meclofenamic Acid	279
+Mefloquine	280
+Mycophenolic Acid	281
+Mycophenolic acid	281
+Niclosamide	282
+Nisoldipine	283
+Nisoldipine 	283
+Nitisinone	284
+Oxyphenbutazone	285
+Pazopanib	286
+Pyrvinium Chloride Dihydrate	287
+Quinine	288
+Sodium Diethyldithiocarbamate Trihydrate	289
+(+/-)-Sulfinpyrazone	290
+Teriflunomide	291
+Teriflunomide (A77 1726)	291
+Thiabendazole	292
+Tizoxanide	293
+Topiramate	294
+Triflupromazine	295
+Valproic Acid	296
+AS-252424	298
+Brivanib (BMS-540215)	300
+Cediranib (AZD2171)	303
+RAF265 (CHIR-265)	304
+Tofacitinib (CP-690550,Tasocitinib)	305
+CX-4945 (Silmitasertib)	306
+ENMD-2076	309
+EX 527 (Selisistat)	310
+GW0742	315
+GW441756	317
+GW9662	318
+Indole-3-carbinol	320
+IPA-3	321
+JZL184	323
+KU-0063794	324
+KU-55933 (ATM Kinase Inhibitor)	325
+BEZ235 (NVP-BEZ235, Dactolisib)	332
+OSU-03012 (AR-12)	334
+PF-04217903	336
+PF-562271	337
+Pioglitazone 	339
+PLX-4720	340
+Ruxolitinib (INCB018424)	343
+SNS-032 (BMS-387032)	344
+T0901317	349
+17-AAG (Tanespimycin)	351
+Tideglusib	353
+Tie2 kinase inhibitor	354
+VX-702	358
+XL147	361
+ZM 336372	362
+Bexarotene	363
+(+)-Bicuculline	364
+(+)-Matrine	365
+(+)-Usniacin	366
+(+,-)-Octopamine HCl	367
+(-)-Blebbistatin	368
+(-)-Epigallocatechin Gallate	369
+(-)-Huperzine A (HupA)	370
+(-)-MK 801 Maleate	371
+(-)-Parthenolide	372
+(-)-Tetramisole	373
+(6-)Aminocaproic acid	374
+1-Hexadecanol	375
+10-Deacetylbaccatin-III	376
+10058-F4	377
+2-Methoxyestradiol (2-MeOE2)	378
+2-Thiouracil	379
+20-Hydroxyecdysone	380
+3-Deazaneplanocin A (DZNeP)	381
+3-Indolebutyric acid (IBA)	382
+3-Methyladenine	383
+4-Aminohippuric Acid	384
+4-Methylumbelliferone (4-MU)	385
+4mu8C	386
+5-hydroxymethyl Tolterodine (PNU 200577, 5-HMT, 5-HM)	387
+5-hydroxytryptophan (5-HTP)	388
+7-Aminocephalosporanic acid	389
+8-Azaguanine	390
+A-205804	391
+A-674563	392
+A-769662	393
+A-803467	394
+A66	395
+A922500	396
+ABT-737	397
+ABT-751 (E7010)	398
+AC480 (BMS-599626)	399
+ADL5859 HCl	400
+ADX-47273	401
+AEE788 (NVP-AEE788)	402
+AG-1024 	403
+AG-14361	404
+AG-1478 (Tyrphostin AG-1478)	405
+AG-18	406
+AG-490 (Tyrphostin B42)	407
+AGI-5198	408
+AM1241	409
+AM251	410
+AMG-458	411
+AMG-517	412
+AMG-900	413
+AP26113	414
+AR-42	415
+ARN-509	416
+AS-604850	417
+AST-1306	418
+AT101	419
+AT13387	420
+AT7519	421
+AT7867	422
+AT9283	423
+AUY922 (NVP-AUY922)	424
+AVL-292	425
+AZ 3146	426
+AZ 628	427
+AZ 960	428
+AZ191	429
+AZ20	430
+AZD1080	431
+AZD1981	432
+AZD2461	433
+AZD2858	434
+AZD3514	435
+AZD5438	436
+AZD6482	437
+AZD8330	438
+Abiraterone Acetate	439
+Acadesine	440
+Acarbose	441
+Acebutolol HCl	442
+Aceclidine HCl	443
+Acemetacin	444
+Acesulfame Potassium	445
+Acetanilide	446
+Acetarsone	447
+Acetylcholine Chloride	448
+Acetylcysteine	449
+Aciclovir	450
+Acipimox	451
+Acitretin	452
+Aclidinium Bromide	453
+Adapalene	454
+Adefovir Dipivoxil 	455
+Adenine HCl	456
+Adenosine	457
+Adiphenine HCl	458
+AdipoRon	459
+Adrenalone HCl	460
+Agomelatine	461
+Albendazole Oxide	462
+Alfacalcidol	463
+Alfuzosin HCl 	464
+Alibendol	465
+Aliskiren Hemifumarate	466
+Alizapride HCl	467
+Alizarin	468
+Allopurinol 	469
+Allylthiourea	470
+Almotriptan Malate	471
+Aloe-emodin	472
+Alogliptin	473
+Aloperine	474
+Alprostadil	475
+Altrenogest	476
+Alverine Citrate	477
+Amantadine HCl	478
+Ambrisentan	479
+Ambroxol HCl	480
+Amfebutamone HCl	481
+Amfenac Sodium Monohydrate	482
+Amidopyrine	483
+Amiloride HCl 	484
+Aminoglutethimide 	485
+Aminophylline	486
+Aminothiazole	487
+Amiodarone HCl	488
+Amisulpride	489
+Amitriptyline HCl 	490
+Amlodipine 	491
+Ammonium Glycyrrhizinate	492
+Amonafide	493
+Amorolfine HCl	494
+Amoxicillin	495
+Amoxicillin Sodium	496
+Amphotericin B 	497
+Ampicillin Trihydrate	498
+Ampicillin sodium	499
+Ampiroxicam	500
+Amprenavir 	501
+Amprolium HCl	502
+Amuvatinib (MP-470)	503
+Anacetrapib (MK-0859)	504
+Anagrelide HCl	505
+Andarine	506
+Andrographolide	507
+Aniracetam	508
+Anisotropine Methylbromide 	509
+Antazoline HCl	510
+Antipyrine	511
+Apatinib	512
+Apigenin	513
+Apixaban	514
+Apocynin	515
+Apoptosis Activator 2	516
+Apremilast (CC-10004)	517
+Arbidol HCl	518
+Arbutin	519
+Arecoline	520
+Argatroban	521
+Aripiprazole	522
+Artemether	523
+Artemisinin	524
+Artesunate	525
+Articaine HCl	526
+Asaraldehyde	527
+Asenapine	528
+Asiatic Acid	529
+Aspartame	530
+Aspirin	531
+Astragaloside A	532
+Ataluren (PTC124)	533
+Atazanavir Sulfate	534
+Atomoxetine HCl	535
+Atorvastatin Calcium 	536
+Atovaquone	537
+Atracurium Besylate	538
+Atropine	539
+Aurora A Inhibitor I	540
+Avagacestat (BMS-708163)	541
+Avanafil	542
+Avasimibe	543
+Avobenzone	544
+Axitinib	545
+Azacyclonol	546
+Azaperone	547
+Azatadine dimaleate	548
+Azathioprine	549
+Azelastine HCl	550
+Azelnidipine	551
+Azilsartan	552
+Azilsartan Medoxomil	553
+Azithromycin	554
+Azlocillin sodium salt	555
+Azomycin	556
+Aztreonam	557
+BAM7	558
+BGJ398 (NVP-BGJ398)	559
+BGT226 (NVP-BGT226)	560
+BIBR 1532	561
+BIIB021	562
+BIO	563
+BIRB 796 (Doramapimod)	564
+BIX 01294	565
+BIX 02188	566
+BIX 02189	567
+BML-190	568
+BMS-265246	569
+BMS-345541	570
+BMS-378806 	571
+BMS-707035	572
+BMS-777607	573
+BMS-794833	574
+BMS-833923	575
+BMY 7378	576
+BRL-15572	577
+BRL-54443	578
+BS-181 HCl	579
+BTZ043 Racemate	580
+BX-795	581
+BX-912	582
+Bacitracin	583
+Baicalein	584
+Baicalin	585
+Balofloxacin	586
+Barasertib (AZD1152-HQPA)	587
+Bardoxolone Methyl	588
+Batimastat (BB-94)	589
+Bazedoxifene HCl	590
+Beclomethasone dipropionate	591
+Belinostat (PXD101)	592
+Bemegride	593
+Benazepril HCl	594
+Bendamustine HCl	595
+Bendroflumethiazide	596
+Benfotiamine	597
+Benidipine HCl	598
+Benserazide HCl	599
+Benzbromarone	600
+Benzethonium Chloride	601
+Benzocaine	602
+Benzoic Acid	603
+Benztropine mesylate	604
+Benzydamine HCl	605
+Bephenium Hydroxynaphthoate	606
+Bepotastine Besilate	607
+Berberine HCl	608
+Bergapten	609
+Bergenin	610
+Beta Carotene	611
+Beta-Lapachone	612
+Betahistine 2HCl	613
+Betamethasone 	614
+Betamipron	615
+Betaxolol	616
+Bethanechol chloride	617
+Betulinic acid	618
+Bezafibrate	619
+Bicalutamide	620
+Bifonazole	621
+Bilobalide	622
+Bimatoprost	623
+Bindarit 	624
+Biochanin A	625
+Biotin (Vitamin B7)	626
+Biperiden HCl	627
+Birinapant	628
+Bisacodyl	629
+Bisoprolol fumarate	630
+Bleomycin Sulfate	631
+Bosentan Hydrate	632
+Brefeldin A 	633
+Brimonidine Tartrate	634
+Brinzolamide	635
+Brivanib Alaninate (BMS-582664)	636
+Bromfenac Sodium	637
+Bromhexine HCl	638
+Brompheniramine hydrogen maleate	639
+Broxyquinoline	640
+Brucine	641
+Budesonide	642
+Bufexamac	643
+Buflomedil HCl	644
+Bumetanide	645
+Bupivacaine HCl 	646
+Buspirone HCl	647
+Butein	648
+Butenafine HCl	649
+Butoconazole nitrate	650
+Butylscopolamine Bromide	651
+CAL-101 (Idelalisib, GS-1101)	652
+CAY10505	653
+CCG 50014	654
+CCT128930	655
+CCT129202	656
+CCT137690	657
+CEP-18770 (Delanzomib)	658
+CEP-32496	659
+CEP-33779	660
+CFTRinh-172	661
+CGK 733	662
+CGS 21680 HCl	663
+CH5132799	664
+CHIR-124	665
+CHIR-98014	666
+CHIR-99021 (CT99021) HCl	667
+CI994 (Tacedinaline)	668
+CNX-774	669
+CO-1686 (AVL-301)	670
+CP-673451	671
+CP-724714	672
+CP-91149	673
+CPI-613	674
+CTEP (RO4956371)	675
+CUDC-101	676
+CUDC-907	677
+CYC116	678
+CZC24832	679
+Cabazitaxel	680
+Caffeic Acid	681
+Caffeic Acid Phenethyl Ester	682
+Calcifediol	683
+Calcitriol	684
+Calcium Gluceptate 	685
+Camostat Mesilate	686
+Camptothecin	687
+Canagliflozin	688
+Candesartan 	689
+Candesartan Cilexetil	690
+Canertinib (CI-1033)	691
+Captopril	692
+Carbadox	693
+Carbamazepine 	694
+Carbazochrome sodium sulfonate (AC-17)	695
+Carbenicillin disodium	696
+Carbenoxolone Sodium	697
+Carbidopa	698
+Carbimazole	699
+Carmofur	700
+Carprofen	701
+Carvedilol	702
+Caspofungin Acetate	703
+Catharanthine	704
+Cathepsin Inhibitor 1	705
+Cefdinir 	706
+Cefditoren Pivoxil	707
+Cefoperazone 	708
+Cefoselis Sulfate	709
+Ceftiofur HCl	710
+Cephalexin	711
+Cephalomannine 	712
+Cepharanthine	713
+Cetirizine DiHCl	714
+Cetrimonium Bromide (CTAB)	715
+Cetylpyridinium Chloride	716
+Chenodeoxycholic Acid	717
+Chloramphenicol	718
+Chlormezanone 	719
+Chlorocresol	720
+Chlorogenic Acid	721
+Chlorothiazide	722
+Chloroxine	723
+Chlorpheniramine Maleate	724
+Chlorpromazine HCl	725
+Chlorpropamide	726
+Chlorprothixene	727
+Chlorquinaldol	728
+Choline Chloride	729
+Chromocarb	730
+Chrysin	731
+Chrysophanic Acid	732
+Ciclopirox	733
+Ciclopirox ethanolamine	734
+Cilazapril Monohydrate 	735
+Cilengitide	736
+Cilnidipine	737
+Cilomilast	738
+Cilostazol	739
+Cimetidine 	740
+Cinacalcet HCl	741
+Cinchonidine	742
+Cinchophen	743
+Cinepazide maleate	744
+Cinoxacin	745
+Ciprofibrate	746
+Ciproxifan	747
+Cisatracurium Besylate	748
+Clarithromycin 	749
+Clemastine Fumarate	750
+Clevidipine Butyrate	751
+Clevudine 	752
+Climbazole	753
+Clindamycin	754
+Clindamycin HCl 	755
+Clindamycin palmitate HCl	756
+Clinofibrate	757
+Clobetasol propionate	758
+Clofazimine	759
+Clofibric Acid	760
+Clomifene citrate 	761
+Clomipramine HCl 	762
+Clonidine HCl 	763
+Clopidogrel	764
+Clorprenaline HCL	765
+Clorsulon	766
+Closantel	767
+Closantel Sodium	768
+Clotrimazole	769
+Cloxacillin Sodium	770
+Clozapine 	771
+Cobicistat (GS-9350)	772
+Conivaptan HCl 	773
+Cortisone acetate 	774
+Costunolide	775
+Coumarin	776
+Crenolanib (CP-868596)	777
+Cryptotanshinone	778
+Crystal Violet	779
+Curcumol	780
+Cyclamic  acid	781
+Cyclandelate	782
+Cyclizine 2HCl	783
+Cyclocytidine HCl	784
+Cyclosporin A 	785
+Cyclosporine 	786
+Cyproheptadine HCl 	787
+Cyproterone Acetate	788
+Cyromazine	789
+Cysteamine HCl	790
+Cytidine	791
+Cytisine	792
+D-Mannitol	793
+D-Pantothenic acid	794
+DAPT (GSI-IX)	795
+DBeQ	796
+DCC-2036 (Rebastinib)	797
+DL-Carnitine HCl	798
+DMXAA (Vadimezan)	799
+Dabigatran Etexilate	800
+Dabrafenib (GSK2118436)	801
+Daclatasvir (BMS-790052)	803
+Dacomitinib (PF299804, PF299)	804
+Daidzein	805
+Dalcetrapib (JTT-705, RO4607381)	806
+Danoprevir (ITMN-191)	807
+Danusertib (PHA-739358)	808
+Daphnetin	809
+Dapivirine (TMC120)	810
+Dapoxetine HCl 	811
+Daptomycin	812
+Darifenacin HBr	813
+Darunavir Ethanolate	814
+Decamethonium Bromide	815
+Deferasirox	816
+Deflazacort 	817
+Degrasyn (WP1130)	818
+Dehydroepiandrosterone (DHEA)	819
+Deoxyarbutin	820
+Desloratadine	821
+Desonide	822
+Desvenlafaxine	823
+Desvenlafaxine Succinate	824
+Detomidine HCl	825
+Dexlansoprazole	826
+Dexmedetomidine	827
+Dexrazoxane HCl (ICRF-187, ADR-529)	828
+Dextrose	829
+Diacerein	830
+Dibenzothiophene	831
+Dibucaine HCl	832
+Dichlorphenamide	833
+Diclazuril	834
+Diclofenac Diethylamine	835
+Diclofenac Potassium	836
+Diclofenac Sodium	837
+Dicloxacillin Sodium	838
+Dicyclomine HCl	839
+Didanosine	840
+Dienogest	841
+Diethylstilbestrol	842
+Difloxacin HCl	843
+Difluprednate	844
+Dihydromyricetin	845
+Diltiazem HCl 	846
+Dimaprit 2HCl	847
+Dimesna	848
+Dimethyl Fumarate	849
+Diminazene Aceturate	850
+Dioscin	851
+Diosmetin	852
+Diosmin	853
+Diperodon HCl	854
+Diphemanil Methylsulfate	855
+Diphenhydramine HCl 	856
+Dirithromycin	857
+Disulfiram 	858
+Divalproex Sodium	859
+Dofetilide 	860
+Dolutegravir (GSK1349572)	861
+Domiphen Bromide	862
+Domperidone 	863
+Dopamine HCl	864
+Doripenem Hydrate	865
+Dovitinib (TKI-258) Dilactic Acid  	866
+Dovitinib (TKI-258, CHIR-258)	169
+Doxapram HCl	868
+Doxazosin Mesylate	869
+Doxercalciferol	870
+Doxifluridine	871
+Doxofylline	872
+Doxorubicin (Adriamycin)	33
+Doxycycline HCl	874
+Doxycycline Hyclate	875
+Doxylamine Succinate	876
+Dronedarone HCl	877
+Droperidol	878
+Dropropizine	879
+Drospirenone	880
+Droxinostat	881
+Duloxetine HCl	882
+Dutasteride	883
+Dyclonine HCl	884
+Dydrogesterone	885
+Dynasore	886
+Dyphylline	887
+E-64	888
+EHop-016 	889
+EPZ-6438	890
+EPZ004777 HCl 	891
+EPZ005687	892
+EPZ5676	893
+ETP-46464	894
+EUK 134	895
+Ebastine	896
+Econazole nitrate 	897
+Edaravone	898
+Edoxaban	899
+Efaproxiral Sodium	900
+Elaiophylin	901
+Eletriptan HBr 	902
+Eltrombopag	903
+Elvitegravir (GS-9137, JTK-303)	904
+Emodin	905
+Empagliflozin (BI 10773)	906
+Emtricitabine 	907
+Enalapril Maleate	908
+Enalaprilat Dihydrate	909
+Enoxacin 	910
+Enoxolone	911
+Enrofloxacin	912
+Entacapone	913
+Entecavir Hydrate	914
+Enzalutamide (MDV3100)	915
+Epalrestat	916
+Epiandrosterone	917
+Epinastine HCl	918
+Epinephrine Bitartrate 	919
+Epinephrine HCl	920
+Epirubicin HCl	921
+Epothilone A	922
+Epothilone B (EPO906, Patupilone)	923
+Epoxomicin	924
+Eprazinone 2HCl	925
+Eprosartan Mesylate	926
+Equol	927
+Erastin	928
+Erdosteine	929
+Ergosterol	930
+Erlotinib HCl (OSI-744)	931
+Erythritol	932
+Erythromycin	933
+Escitalopram Oxalate	934
+Esculin	935
+Esmolol HCl	936
+Esomeprazole Sodium 	937
+Estradiol	938
+Estradiol valerate	939
+Estriol	940
+Estrone	941
+Ethacridine lactate monohydrate	942
+Ethambutol HCl	943
+Ethamsylate	944
+Ethionamide	945
+Ethynodiol diacetate	946
+Etodolac 	947
+Etofibrate	948
+Etomidate	949
+Etravirine (TMC125)	950
+Evacetrapib (LY2484595)	951
+Evodiamine	952
+Ezetimibe 	953
+FG-4592	954
+FT-207 (NSC 148958)	955
+Famciclovir 	956
+Famotidine 	957
+Famprofazone	958
+Fasudil (HA-1077) HCl	959
+Felbamate	960
+Felodipine	961
+Fenbendazole 	962
+Fenofibrate 	963
+Fenoprofen Calcium	964
+Fenspiride HCl	965
+Fenticonazole Nitrate	966
+Ferrostatin-1 (Fer-1)	967
+Ferulic Acid	968
+Fesoterodine Fumarate 	969
+Fexofenadine HCl	970
+Fidaxomicin	971
+Finasteride	972
+Fingolimod (FTY720) HCl	973
+Fisetin	974
+Flavopiridol HCl	975
+Flavoxate HCl	976
+Flopropione	977
+Florfenicol	978
+Flubendazole	979
+Fluconazole	980
+Flucytosine	981
+Fludarabine Phosphate	982
+Flufenamic acid	983
+Flumazenil	984
+Flumequine	985
+Flumethasone	986
+Flunarizine 2HCl	987
+Flunixin Meglumin	988
+Fluocinolone Acetonide	989
+Fluocinonide 	990
+Fluorometholone Acetate	991
+Fluoxetine HCl	992
+Flupirtine maleate	993
+Flurbiprofen 	994
+Flutamide	995
+Fluticasone propionate 	996
+Fluvastatin Sodium	997
+Fluvoxamine maleate	998
+Formestane	999
+Formononetin	1000
+Formoterol Hemifumarate	1001
+Forskolin	1002
+Fosaprepitant dimeglumine salt	1003
+Foscarnet Sodium	1004
+Fostamatinib (R788)	1005
+Furaltadone HCl	1006
+Furosemide 	1007
+GDC-0068	1008
+GDC-0152	1009
+GDC-0349	1010
+GDC-0879	1011
+GDC-0980 (RG7422)	1012
+GNF-2	1013
+GSK J4 HCl	1014
+GSK1059615	1015
+GSK1070916	1016
+GSK1292263	1017
+GSK1838705A	1018
+GSK1904529A	1019
+GSK2126458 (GSK458)	1020
+GSK256066	1021
+GSK2636771	1022
+GSK3787	1023
+GSK429286A	1024
+GSK461364	1025
+GW3965 HCl	1026
+GW4064	1027
+GW5074	1028
+GW788388	1029
+GW842166X	1030
+GW9508	1031
+GZD824	1032
+Gabexate Mesylate	1033
+Gadodiamide 	1034
+Galeterone	1035
+Gallamine Triethiodide 	1036
+Ganciclovir	1037
+Ganetespib (STA-9090)	1038
+Gastrodin	1039
+Gatifloxacin	1040
+Gemfibrozil 	1041
+Genipin	1042
+Geniposide	1043
+Geniposidic acid	1044
+Genistein	1045
+Gestodene	1046
+Gimeracil	1047
+Ginkgolide A	1048
+Ginkgolide B	1049
+Givinostat (ITF2357)	1050
+Glafenine HCl	1051
+Gliclazide 	1052
+Glimepiride	1053
+Glipizide 	1054
+Gliquidone	1055
+Glyburide	1056
+Glycyrrhizic Acid	1057
+Go 6983	1058
+Golgicide A	1059
+Golvatinib (E7050)	1060
+Gramine	1061
+Granisetron HCl	1062
+Griseofulvin	1063
+Guaifenesin 	1064
+Guanabenz Acetate	1065
+Guanethidine Sulfate	1066
+Guanidine HCl	1067
+Guanosine	1068
+Gynostemma Extract	1069
+H 89 2HCl	1070
+HA14-1	1071
+HC-030031	1072
+HER2-Inhibitor-1	1073
+HMN-214	1074
+Halcinonide	1075
+Halobetasol Propionate	1076
+Haloperidol 	1077
+Hematoxylin	1078
+Hesperadin	1079
+Hesperetin	1080
+Hesperidin	1081
+Hexestrol	1082
+Histamine 2HCl	1083
+Homatropine Bromide	1084
+Honokiol	1085
+Hordenine	1086
+Hydralazine HCl	1087
+Hydrochlorothiazide	1088
+Hydrocortisone 	1089
+Hydroxyzine 2HCl	1090
+Hyodeoxycholic acid (HDCA)	1091
+Hyoscyamine	1092
+I-BET-762	1093
+I-BET151 (GSK1210151A)	1094
+ICG-001	1095
+ID-8	1096
+IEM 1754 dihydrobroMide	1097
+IKK-16 (IKK Inhibitor VII)	1098
+INCB28060	1099
+INK 128 (MLN0128)	1100
+INO-1001	1101
+IOWH032	1102
+IOX2	1103
+IPI-145 (INK1197)	1104
+IU1	1105
+IWP-L6	1106
+IWR-1-endo	1107
+Ibrutinib (PCI-32765)	1108
+Ibuprofen 	1109
+Ibutilide Fumarate	1110
+Icariin	1111
+Icotinib	1112
+Idebenone	1113
+Idoxuridine	1114
+Ifenprodil Tartrate	1115
+Ilomastat (GM6001, Galardin)	1116
+Iloperidone	1117
+Imatinib Mesylate (STI571)	1118
+Imidapril HCl	1119
+Imipramine HCl	1120
+Indacaterol Maleate	1121
+Indapamide 	1122
+Indirubin	1123
+Indomethacin 	1124
+Iniparib (BSI-201)	1125
+Inosine	1126
+Ipratropium Bromide	1127
+Ipriflavone (Osteofix)	1128
+Irbesartan	1129
+Irinotecan HCl Trihydrate	1130
+Irsogladine	1131
+Isoconazole nitrate 	1132
+Isoliquiritigenin	1133
+Isoprenaline HCl	1134
+Isosorbide	1135
+Isotretinoin	1136
+Isovaleramide	1137
+Ispinesib (SB-715992)	1138
+Isradipine	1139
+Istradefylline	1140
+Ivabradine HCl	1141
+Ivacaftor (VX-770)	1142
+Ivermectin	1143
+JIB-04	1144
+JNJ-1661010	1145
+JNJ-26854165 (Serdemetan)	1146
+JNJ-38877605	1147
+JNJ-7706621	1148
+JNJ-7777120	1149
+JSH-23	1150
+JTC-801	1151
+K02288	1152
+KPT-185	1153
+KPT-276	1154
+KPT-330	1155
+KRN 633	1156
+KW-2449	1157
+KW-2478	1158
+KX2-391	1159
+KY02111	1160
+Kaempferol	1161
+Ketanserin 	1162
+Ketoconazole	1163
+Ketoprofen 	1164
+Ketorolac	1165
+Ketotifen Fumarate 	1166
+Ki16198	1167
+Ki16425	1168
+Ki8751	1169
+Kinetin	1170
+L-(+)-Rhamnose Monohydrate	1171
+L-Adrenaline	1172
+L-Ascorbyl 6-palmitate	1173
+L-Thyroxine	1174
+L-carnitine 	1175
+LAQ824 (Dacinostat)	1176
+LDK378	1177
+LDN-57444	1178
+LGK-974	1179
+LY2109761	1180
+LY2157299	1181
+LY2228820	1182
+LY2603618	1183
+LY2608204	1184
+LY2784544	1185
+LY2811376	1186
+LY2835219	1187
+LY2886721	1188
+LY294002	1189
+LY364947	1190
+LY404039	1191
+LY411575	1192
+Lacidipine 	1193
+Laetrile	1194
+Lafutidine	1195
+Lamivudine 	1196
+Lamotrigine	1197
+Lansoprazole	1198
+Lapatinib (GW-572016) Ditosylate	1199
+Lappaconite HBr	1200
+Laquinimod	1201
+Lenvatinib (E7080)	1202
+Levetiracetam	1203
+Levobetaxolol HCl	1204
+Levodropropizine	1205
+Levofloxacin	1206
+Levonorgestrel 	1207
+Levosimendan	1208
+Levosulpiride	1209
+Licofelone	1210
+Lidocaine	1211
+Limonin	1212
+Linagliptin	1213
+Lincomycin HCl 	1214
+Linezolid	1215
+Linifanib (ABT-869)	1216
+Liothyronine Sodium	1217
+Lithium Citrate	1218
+Lithocholic acid	1219
+Lomefloxacin HCl 	1220
+Lomeguatrib	1221
+Lomerizine HCl	1222
+Lonafarnib	1223
+Lonidamine	1224
+Loperamide HCl	1225
+Lopinavir	1226
+Loratadine	1227
+Lorcaserin HCl	1228
+Lornoxicam	1229
+Losartan Potassium (DuP 753)	1230
+Loteprednol etabonate	1231
+Lovastatin	1232
+Loxapine Succinate	1233
+Lubiprostone 	1234
+Luliconazole	1235
+Lumiracoxib	1236
+Luteolin	1237
+M344	1238
+MC1568	1239
+MEK162 (ARRY-162, ARRY-438162)	1240
+MG-132	1241
+MGCD-265	1242
+MK-0752	1243
+MK-2048	1244
+MK-2206 2HCl	1245
+MK-2461	1246
+MK-2866 (GTx-024)	1247
+MK-801 (Dizocilpine)	1248
+MK-8245	1249
+MK-8745	1250
+MK-8776 (SCH 900776)	1251
+ML133 HCl	1252
+ML161	1253
+MLN2238	1254
+MLN8054	1255
+MLN9708	1256
+MM-102	1257
+MNS (3,4-Methylenedioxy-beta-nitrostyrene, MDBN)	1258
+MPEP	1259
+MRS 2578	1260
+Macitentan	1261
+Magnolol	1262
+Malotilate	1263
+Manidipine	1264
+Manidipine 2HCl	1265
+Maprotiline HCl	1266
+Maraviroc	1267
+Marbofloxacin	1268
+Masitinib (AB1010)	1269
+Mdivi-1	1270
+Mecarbinate	1271
+Meclizine 2HCl	1272
+Medetomidine HCl	1273
+Medroxyprogesterone acetate	1274
+Mefenamic Acid	1275
+Meglumine	1276
+Melatonin	1277
+Meloxicam	1278
+Memantine HCl	1279
+Menadione	1280
+Mepenzolate Bromide 	1281
+Mepiroxol	1282
+Mepivacaine HCl	1283
+Meprednisone	1284
+Meptazinol HCl	1285
+Mequinol	1286
+Meropenem	1287
+Mesalamine	1288
+Mesna 	1289
+Mestranol	1290
+Methacycline HCl	1291
+Methazolamide	1292
+Methenamine 	1293
+Methimazole 	1294
+Methocarbamol 	1295
+Methscopolamine	1296
+Methyclothiazide	1297
+Methyl-Hesperidin	1298
+Methylhydantoin-5-(D)	1299
+Methylprednisolone	1300
+Methylthiouracil	1301
+Meticrane	1302
+Metolazone 	1303
+Metoprolol Tartrate	1304
+Metronidazole 	1305
+Mevastatin	1306
+Mexiletine HCl	1307
+Mezlocillin Sodium	1308
+Mianserin HCl	1309
+Miconazole 	1310
+Miconazole Nitrate	1311
+Mifepristone	1312
+Miglitol	1313
+Milciclib (PHA-848125)	1314
+Milnacipran HCl	1315
+Milrinone	1316
+Mirabegron	1317
+Mirtazapine	1318
+Mitoxantrone HCl	1319
+Mizoribine 	1320
+Mocetinostat (MGCD0103)	1321
+Moclobemide (Ro 111163)	1322
+Moexipril HCl	1323
+Moguisteine	1324
+Mometasone furoate	1325
+Monobenzone	1326
+Montelukast Sodium	1327
+Morin Hydrate	1328
+Moroxydine HCl	1329
+Mosapride Citrate	1330
+Motesanib Diphosphate (AMG-706)	1331
+Moxalactam Disodium	1332
+Moxifloxacin HCl	1333
+Moxonidine	1334
+Mozavaptan	1335
+Mubritinib (TAK 165)	1336
+Mycophenolate Mofetil	1337
+Myricetin	1338
+Myricitrin	1339
+N6-methyladenosine (m6A)	1340
+NLG919	1341
+NMDA (N-Methyl-D-aspartic acid)	1342
+NMS-873	1343
+NPS-2143	1344
+NSC 23766	1345
+NSC 319726	1346
+NSC 405020	1347
+NU6027	1348
+NU7026	1349
+NVP-ADW742	1350
+NVP-AEW541	1351
+NVP-BHG712	1352
+NVP-BSK805 2HCl	1353
+NVP-BVU972	1354
+NXY-059 	1355
+Nabumetone	1356
+Nadifloxacin 	1357
+Nafamostat Mesylate	1358
+Nafcillin Sodium	1359
+Naftopidil 	1360
+Naftopidil DiHCl	1361
+Nalidixic acid 	1362
+Naloxone HCl	1363
+Naltrexone HCl	1364
+Nanchangmycin	1365
+Naphazoline HCl 	1366
+Naproxen 	1367
+Naratriptan 	1368
+Naringenin	1369
+Naringin	1370
+Naringin Dihydrochalcone	1371
+Natamycin 	1372
+Nateglinide	1373
+Nebivolol 	1374
+Necrostatin-1	1375
+Nefiracetam	1376
+Nefopam HCl	1377
+Neohesperidin	1378
+Nepafenac	1379
+Neratinib (HKI-272)	1380
+Nevirapine 	1381
+Nialamide	1382
+Nicaraven	1383
+Nicardipine HCl	1384
+Nicorandil	1385
+Nicotinamide (Vitamin B3)	1386
+Nicotine Ditartrate	1387
+Nicotinic Acid	1388
+Nifedipine	1389
+Nifenazone	1390
+Niflumic acid	1391
+Nifuroxazide	1392
+Nilvadipine	1393
+Nimesulide	1394
+Nimodipine	1395
+Nitazoxanide	1396
+Nithiamide	1397
+Nitrendipine	1398
+Nitrofural	1399
+Nizatidine	1400
+Nobiletin	1401
+Nocodazole	1402
+Noradrenaline bitartrate monohydrate	1403
+Norethindrone	1404
+Noscapine HCl	1405
+Novobiocin Sodium 	1406
+Nystatin (Fungicidin)	1407
+OAC1	1408
+OC000459	1409
+ONX-0914 (PR-957)	1410
+OSI-027	1411
+OSI-420	1412
+OSI-930	1413
+Odanacatib (MK-0822)	1414
+Olanzapine	1415
+Oleanolic Acid	1416
+Oligomycin A	1417
+Olmesartan Medoxomil	1418
+Olopatadine HCl 	1419
+Olsalazine Sodium	1420
+Omecamtiv mecarbil (CK-1827452)	1421
+Omeprazole 	1422
+Ondansetron HCl	1423
+Oprozomib (ONX 0912)	1424
+Org 27569	1425
+Oridonin	1426
+Ornidazole	1427
+Orotic acid (6-Carboxyuracil)	1428
+Orphenadrine Citrate 	1429
+Oseltamivir phosphate 	1430
+Osthole	1431
+Otilonium Bromide	1432
+Ouabain	1433
+Oxaprozin	1435
+Oxcarbazepine	1436
+Oxeladin Citrate	1437
+Oxethazaine	1438
+Oxfendazole	1439
+Oxibendazole	1440
+Oxybuprocaine HCl	1441
+Oxybutynin chloride	1442
+Oxymatrine	1443
+Oxymetazoline HCl	1444
+Oxymetholone	1445
+Oxytetracycline (Terramycin)	1446
+Ozagrel	1447
+Ozagrel HCl	1448
+P22077	1449
+P276-00	1450
+P5091 (P005091)	1451
+PA-824	1452
+PAC-1	1453
+PCI-34051	1454
+PD123319	1455
+PD128907 HCl	1456
+PD168393	1457
+PD184352 (CI-1040)	1458
+PD318088	1459
+PD98059	1460
+PF-00562271	1461
+PF-04691502	1462
+PF-04880594	1463
+PF-04929113 (SNX-5422)	1464
+PF-05212384 (PKI-587)	1465
+PF-3845	1466
+PF-4708671	1467
+PF-477736	1468
+PF-4981517	1469
+PF-5274857	1470
+PF-573228	230
+PFI-1 (PF-6405761)	1472
+PH-797804	1473
+PHA-680632	1474
+PHA-767491	1475
+PHA-793887	1476
+PHT-427	1477
+PI-103	1478
+PIK-293	1479
+PIK-294	1480
+PIK-75	1481
+PIK-93	1482
+PJ34	1483
+PMSF 	1484
+PNU-120596	1485
+PP1	1486
+PP121	1487
+PP2	1488
+PP242	1489
+PQ 401	1490
+PR-619	1491
+PRT062607 (P505-15, BIIB057) HCl	1492
+PRX-08066 Maleic acid	1493
+PYR-41	1494
+Pacritinib (SB1518)	1495
+Paeoniflorin	1496
+Paeonol	1497
+Palbociclib (PD-0332991) HCl	1498
+Palmatine chloride	1499
+Palomid 529 (P529)	1500
+Pancuronium dibromide	1501
+Paroxetine HCl	1502
+Pasiniazid	1503
+Pazopanib HCl (GW786034 HCl)	1504
+Pefloxacin Mesylate	1505
+Pelitinib (EKB-569)	1506
+Penciclovir	1507
+Penfluridol	1508
+Penicillin G Sodium	1509
+Pentamidine	1510
+Pergolide mesylate	1511
+Phenazopyridine HCl	1512
+Phenformin HCl	1513
+Phenindione	1514
+Pheniramine Maleate	1515
+Phenothiazine	1516
+Phenoxybenzamine HCl	1517
+Phentolamine Mesylate	1518
+Phenylbutazone 	1519
+Phenylephrine HCl	1520
+Phenytoin	1521
+Phenytoin sodium	1522
+Phloretin	1523
+Phlorizin	1524
+Phthalylsulfacetamide	1525
+Piceatannol	1526
+Pidotimod	1527
+Pifithrin-mu	1528
+Pifithrin-alpha	1529
+Pilocarpine HCl	1530
+Pimasertib (AS-703026)	1531
+Pimobendan	1532
+Pioglitazone HCl	1533
+Piperacillin Sodium	1534
+Piperine	1535
+Piracetam	1536
+Pirarubicin	1537
+Pirfenidone	1538
+Piromidic Acid	1539
+Piroxicam 	1540
+Pitavastatin Calcium 	1541
+Pizotifen Malate	1542
+PluriSIn 1 (NSC 14613)	1543
+Polydatin	1544
+Pomalidomide	1545
+Ponatinib (AP24534)	1546
+Posaconazole	1547
+Potassium Canrenoate	1548
+Potassium Iodide	1549
+Pracinostat (SB939)	1550
+Pramipexole	1551
+Pramiracetam	1552
+Pramoxine HCl	1553
+Pranlukast	1554
+Pranoprofen	1555
+Prasugrel	1556
+Pravastatin sodium	1557
+Praziquantel	1558
+Prazosin HCl	1559
+Prednisolone 	1560
+Prednisone 	1561
+Pregnenolone	1562
+Pridinol Methanesulfonate	1563
+Prilocaine	1564
+Primaquine Diphosphate	1565
+Primidone 	1566
+Proadifen HCl	1567
+Probenecid 	1568
+Probucol	1569
+Procaine HCl	1570
+Prochlorperazine Dimaleate	1571
+Procyclidine HCl 	1572
+Progesterone	1573
+Propafenone HCl	1574
+Proparacaine HCl	1575
+Propranolol HCl	1576
+Propylthiouracil	1577
+Protionamide	1578
+Prucalopride	1579
+Prucalopride Succinate	1580
+Puerarin	1581
+Purmorphamine	1582
+Pyrazinamide	1583
+Pyridostigmine Bromide 	1584
+Pyridoxine HCl 	1585
+Pyrimethamine	1586
+QNZ (EVP4593)	1587
+Quercetin	1588
+Quercetin Dihydrate	1589
+Quetiapine Fumarate	1590
+Quinapril HCl 	1591
+Quinine HCl Dihydrate	1592
+Quisinostat (JNJ-26481585)	1593
+Quizartinib (AC220)	1594
+R406	1595
+R547	1596
+RG108	1597
+RG2833 (RGFP109)	1598
+RGFP966	1599
+RI-1	1600
+RITA (NSC 652287)	1601
+RKI-1447	1602
+RS-127445	1603
+Racecadotril 	1604
+Ractopamine HCl	1605
+Raloxifene HCl	1606
+Raltegravir (MK-0518)	1607
+Raltitrexed	1608
+Ramelteon	1609
+Ramipril 	1610
+Ranitidine	1611
+Ranolazine 	1612
+Ranolazine 2HCl	1613
+Rasagiline Mesylate	1614
+Rebamipide	1615
+Reboxetine mesylate	1616
+Regorafenib (BAY 73-4506)	1617
+RepSox	1618
+Repaglinide	1619
+Reserpine	1620
+Resminostat	1621
+Resveratrol	1622
+Retapamulin	1623
+Rheochrysidin	1624
+Ribavirin 	1625
+Ribitol	1626
+Rifabutin 	1627
+Rifampin	1628
+Rifapentine 	1629
+Rifaximin	1630
+Rigosertib (ON-01910)	1631
+Rilpivirine	1632
+Riluzole	1633
+Rimantadine 	1634
+Rimonabant	1635
+Risperidone 	1636
+Ritodrine HCl 	1637
+Rivaroxaban	1638
+Rivastigmine Tartrate	1639
+Rizatriptan Benzoate 	1640
+Rocilinostat (ACY-1215)	1641
+Rocuronium Bromide	1642
+Rofecoxib 	1643
+Roflumilast 	1644
+Rolipram	1645
+Ronidazole	1646
+Ropinirole HCl	1647
+Ropivacaine HCl	1648
+Roscovitine (Seliciclib,CYC202)	1649
+Rosuvastatin Calcium	1650
+Rotundine	1651
+Roxatidine Acetate HCl	1652
+Roxithromycin 	1653
+Rucaparib (AG-014699,PF-01367338)	1654
+Rufinamide	1655
+Rupatadine Fumarate	1656
+Rutaecarpine	1657
+Rutin	1658
+S-(+)-Rolipram	1659
+S-Ruxolitinib (INCB018424)	1660
+S3I-201	1661
+SANT-1	1662
+SAR131675	1663
+SAR245409 (XL765)	1664
+SB202190 (FHPI)	1665
+SB203580	1666
+SB216763	1667
+SB269970 HCl	1668
+SB271046	1669
+SB408124	1670
+SB415286	1671
+SB431542	1672
+SB505124	1673
+SB525334	1674
+SB590885	1675
+SB705498	1676
+SB742457	1677
+SB743921	1678
+SC-514	1679
+SC144	1680
+SGC 0946	1681
+SGC-CBP30	1682
+SGI-1027	1683
+SGI-1776 free base	1684
+SGX-523	1685
+SKI II	1686
+SL-327	1687
+SMI-4a	1688
+SNS-314 Mesylate	1689
+SNX-2112 (PF-04928473)	1690
+SRPIN340	1691
+SRT1720	1692
+SSR128129E	1693
+STF-118804	1694
+STF-62247	1695
+Safinamide Mesylate	1696
+Salicin	1697
+Salicylanilide	1698
+Salidroside	1699
+Salinomycin	1700
+Salubrinal	1701
+Saracatinib (AZD0530)	1702
+Sarafloxacin HCl	1703
+Sasapyrine	1704
+Saxagliptin	1705
+Schisandrin B (Sch B)	1706
+Sclareol	1707
+Sclareolide	1708
+Scopine	1709
+Scopine HCl	1710
+Scopolamine HBr	1711
+Scriptaid 	1712
+Secnidazole 	1713
+Semagacestat (LY450139)	1714
+Semaxanib (SU5416)	1715
+Serotonin HCl	1716
+Sertaconazole nitrate	1717
+Sertraline HCl	1718
+Sesamin	1719
+Shikimic Acid	1720
+Sildenafil Citrate	1721
+Silibinin	1722
+Silodosin	1723
+Silymarin	1724
+Sinomenine	1725
+Sirtinol	1726
+Sitafloxacin Hydrate	1727
+Sitagliptin phosphate monohydrate	1728
+Sitaxentan sodium	1729
+Skepinone-L	1730
+Sodium 4-Aminosalicylate	1731
+Sodium 4-aminohippurate Hydrate	1732
+Sodium Danshensu	1733
+Sodium Nitrite	1734
+Sodium Nitroprusside	1735
+Sodium Phenylbutyrate	1736
+Sodium Picosulfate	1737
+Sodium ascorbate	1738
+Sodium salicylate	1739
+Solifenacin succinate	1740
+Sophocarpine	1741
+Sorafenib Tosylate	1742
+Sorbitol	1743
+Sotalol 	1744
+Sotrastaurin	1745
+Sparfloxacin	1746
+Spectinomycin HCl	1747
+Spiramycin	1748
+Spironolactone	1749
+Stavudine (d4T)	1750
+StemRegenin 1 (SR1)	1751
+Stigmasterol	1752
+Streptomycin sulfate	1753
+Succinylcholine Chloride Dihydrate	1754
+Sucralose	1755
+Sulbactam 	1756
+Sulbactam sodium 	1757
+Sulconazole Nitrate	1758
+Sulfacetamide Sodium	1759
+Sulfadiazine	1760
+Sulfaguanidine	1761
+Sulfamerazine	1762
+Sulfameter 	1763
+Sulfamethazine	1764
+Sulfamethizole 	1765
+Sulfamethoxazole	1766
+Sulfamethoxypyridazine	1767
+Sulfanilamide	1768
+Sulfapyridine 	1769
+Sulfasalazine	1770
+Sulfathiazole	1771
+Sulfisoxazole	1772
+Sulindac 	1773
+Sulphadimethoxine	1774
+Sumatriptan Succinate	1775
+Suplatast Tosylate	1776
+Suprofen 	1777
+Suvorexant (MK-4305)	1778
+Synephrine	1779
+Synephrine HCl	1780
+T0070907	1781
+TAE226 (NVP-TAE226)	1782
+TAK-285	1783
+TAK-438	1784
+TAK-632	1785
+TAK-700 (Orteronel)	1786
+TAK-715	1787
+TAK-733	1788
+TAK-875	1789
+TAK-901	1790
+TAME	1791
+TCID	1792
+TCS 359	1793
+TG003	1794
+TG100-115	1795
+TG100713	1796
+TG101209	1797
+TG101348 (SAR302503)	1798
+TGX-221	1799
+TIC10	1800
+TPCA-1	1801
+TTNPB (Arotinoid Acid)	1802
+TW-37	1803
+TWS119	1804
+Tacrine HCl	1805
+Tacrolimus (FK506)	1806
+Tadalafil	1807
+Talc	1808
+Tamibarotene	1809
+Tamoxifen Citrate	1810
+Tandutinib (MLN518)	1811
+Tangeretin	1812
+Tanshinone I	1813
+Tanshinone IIA	1814
+Tariquidar	1815
+Tasisulam	1816
+Taxifolin (Dihydroquercetin)	1817
+Tazarotene 	1818
+Tebipenem Pivoxil	1819
+Telaprevir (VX-950)	1820
+Telatinib	1821
+Telbivudine 	1822
+Telmisartan 	1823
+Temocapril HCl 	1824
+Tempol	1825
+Tenofovir 	1826
+Tenofovir Disoproxil Fumarate	1827
+Tenovin-1	1828
+Tenoxicam	1829
+Terazosin HCl 	1830
+Terbinafine 	1831
+Terbinafine HCl 	1832
+Terfenadine	1833
+Tetracaine HCl 	1834
+Tetracycline HCl	1835
+Tetraethylenepentamine 5HCl	1836
+Tetrahydropapaverine HCl	1837
+Tetrahydrozoline HCl	1838
+Tetrandrine	1839
+Theobromine	1840
+Thiamet G 	1841
+Thiamphenicol	1842
+Thiazovivin	1843
+Thioridazine HCl	1844
+Thonzonium Bromide	1845
+Tianeptine sodium	1846
+Ticagrelor	1847
+Ticarcillin sodium	1848
+Ticlopidine HCl	1849
+Tigecycline	1850
+Tilmicosin	1851
+Timolol Maleate	1852
+Tinidazole	1853
+Tioconazole	1854
+Tiopronin 	1855
+Tiotropium Bromide hydrate	1856
+Tioxolone	1857
+Tiratricol	1858
+Tivozanib (AV-951)	1859
+Tizanidine HCl	1860
+Tofacitinib (CP-690550) Citrate	1861
+Tolazoline HCl	1862
+Tolbutamide	1863
+Tolcapone	1864
+Tolfenamic Acid	1865
+Tolmetin Sodium	1866
+Tolnaftate	1867
+Tolperisone HCl	1868
+Tolterodine tartrate	1869
+Toltrazuril	1870
+Tolvaptan	1871
+Topotecan HCl	1872
+Torcetrapib	1873
+Toremifene Citrate	1874
+Torin 1	1875
+Torin 2	1876
+Torsemide 	1877
+Tosedostat (CHR2797)	1878
+Tranexamic Acid 	1879
+Tranilast	1880
+Tranylcypromine (2-PCPA) HCl	1881
+Trazodone HCl 	1882
+Triamcinolone	1883
+Triamcinolone Acetonide	1884
+Triamterene	1885
+Trichlormethiazide 	1886
+Trichostatin A (TSA)	1887
+Triciribine	1888
+Triclabendazole	1889
+Trifluoperazine 2HCl	1890
+Triflusal	1891
+Trilostane	1892
+Trimethoprim	1893
+Tripelennamine HCl	1894
+Trometamol	1895
+Tropicamide	1896
+Tropisetron	1897
+Trospium chloride 	1898
+Troxerutin	1899
+Troxipide	1900
+Tubastatin A HCl	1901
+Tylosin tartrate	1902
+Tyrphostin 9 	1903
+Tyrphostin AG 1296	1904
+Tyrphostin AG 879	1905
+U-104	1906
+U0126-EtOH	1907
+UK 383367	1908
+UNC1999	1909
+UNC2250	1910
+UPF 1069	1911
+URB597	1912
+Ulipristal	1913
+Uracil	1914
+Urapidil HCl	1915
+Uridine	1916
+Ursodiol	1917
+Ursolic Acid	1918
+VE-821	1919
+VE-822	1920
+VU 0357121	1921
+VU 0361737	1922
+VU 0364439	1923
+VU 0364770	1924
+VUF 10166	1925
+VX-222 (VCH-222, Lomibuvir)	1926
+VX-661	1927
+VX-745	1928
+VX-765	1929
+VX-809 (Lumacaftor)	1930
+Valaciclovir HCl	1931
+Valdecoxib	1932
+Valganciclovir HCl	1933
+Valnemulin HCl	1934
+Valproic acid sodium salt (Sodium valproate)	1935
+Valsartan	1936
+Vanillin 	1937
+Vanillylacetone	1938
+Vardenafil HCl Trihydrate	1939
+Varenicline Tartrate	1940
+Varespladib (LY315920)	1941
+Varlitinib	1942
+Vatalanib (PTK787) 2HCl	1943
+Vecuronium Bromide	1944
+Venlafaxine	1945
+Verapamil HCl	1946
+Vidarabine 	1947
+Vilazodone HCl	1948
+Vildagliptin (LAF-237)	1949
+Vinflunine Tartrate	1951
+Vitamin B12	1952
+Vitamin C	1953
+Vitamin D2 	1954
+Vitamin D3 	1955
+Voglibose	1956
+Volasertib (BI 6727)	1957
+Voriconazole	1958
+Vortioxetine (Lu AA21004) HBr	1959
+WAY-100635 Maleate	1960
+WAY-600	1961
+WHI-P154	1962
+WP1066	1963
+WY-14643 (Pirinixic Acid)	1964
+WYE-125132 (WYE-132)	1965
+WYE-354	1966
+WZ3146	1967
+WZ4003	1968
+WZ8040	1969
+WZ811	1970
+Wnt-C59 (C59)	1971
+Wortmannin	1972
+XL019	1973
+XL335	1974
+XL388	1975
+XL888	1976
+Xanthone	1977
+Xylazine HCl	1978
+Xylometazoline HCl	1979
+Xylose	1980
+Y-27632 2HCl	1981
+YM201636	1982
+YO-01027	1983
+Yohimbine HCl	1984
+ZCL278	1985
+ZLN005	1986
+ZM 306416	1987
+ZM 323881 HCl	1988
+ZM 39923 HCl	1989
+ZM 447439	1990
+ZSTK474	1991
+Zafirlukast 	1992
+Zalcitabine	1993
+Zaltoprofen	1994
+Zanamivir	1995
+Zebularine	1996
+Zidovudine 	1997
+Zileuton	1998
+Zinc Pyrithione	1999
+Ziprasidone HCl	2000
+Zolmitriptan 	2001
+Zonisamide	2002
+Zosuquidar (LY335979) 3HCl	2003
+Zoxazolamine	2004
+Gossypol	2005
+GW2580	316
