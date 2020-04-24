@@ -169,17 +169,17 @@ if(length(combo_idx) > 0) {
 		zip = as.numeric(c(zip_mat))
 	)
 
-	write.table(t(result), file=paste0("tbl.nci.combo_summary_", idSample, "__", idDrugA, "__", idDrugB, ".txt"),
+	write.table(t(result), file=paste0("tbl.mit.combo_summary_", idSample, "__", idDrugA, "__", idDrugB, ".txt"),
 		row.names=F, col.names=F, quote=F, sep="\t")
-	write.table(raw_matrix, file=paste0("tbl.nci.raw_", idSample, "__", idDrugA, "__", idDrugB, ".txt"),
+	write.table(raw_matrix, file=paste0("tbl.mit.raw_", idSample, "__", idDrugA, "__", idDrugB, ".txt"),
 		row.names=F, col.names=F, quote=F, sep="\t")
-	write.table(bliss_matrix, file=paste0("tbl.nci.bliss_", idSample, "__", idDrugA, "__", idDrugB, ".txt"),
+	write.table(bliss_matrix, file=paste0("tbl.mit.bliss_", idSample, "__", idDrugA, "__", idDrugB, ".txt"),
 		row.names=F, col.names=F, quote=F, sep="\t")
-	write.table(loewe_matrix, file=paste0("tbl.nci.loewe_", idSample, "__", idDrugA, "__", idDrugB, ".txt"),
+	write.table(loewe_matrix, file=paste0("tbl.mit.loewe_", idSample, "__", idDrugA, "__", idDrugB, ".txt"),
 		row.names=F, col.names=F, quote=F, sep="\t")
-	write.table(hsa_matrix, file=paste0("tbl.nci.hsa_", idSample, "__", idDrugA, "__", idDrugB, ".txt"),
+	write.table(hsa_matrix, file=paste0("tbl.mit.hsa_", idSample, "__", idDrugA, "__", idDrugB, ".txt"),
 		row.names=F, col.names=F, quote=F, sep="\t")
-	write.table(zip_matrix, file=paste0("tbl.nci.zip_", idSample, "__", idDrugA, "__", idDrugB, ".txt"),
+	write.table(zip_matrix, file=paste0("tbl.mit.zip_", idSample, "__", idDrugA, "__", idDrugB, ".txt"),
 		row.names=F, col.names=F, quote=F, sep="\t")
 
 }	
