@@ -70,13 +70,13 @@ if(length(combo_idx) > 0) {
 
 	colnames(Z) <- c(0, combo_A_concentration)
 	rownames(Z) <- c(0, combo_B_concentration)
-	Z
+	Z <- Z/100
 
 	combo_col_concentration <- colnames(Z)
 	combo_row_concentration <- rownames(Z)
 
 	meta <- data.frame(drug.col = idDrugA, drug.row = idDrugB, concUnit = "microM", blockIDs = 1)
-	data <- list(dose.response.mats = list(block=(Z/100)), drug.pairs = meta) # Inhibition rate!
+	data <- list(dose.response.mats = list(block=(Z)), drug.pairs = meta) # Inhibition rate!
 	data
 
 	bliss_score <- NA; bliss_mat <- NA

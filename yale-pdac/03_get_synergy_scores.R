@@ -53,6 +53,7 @@ if(length(combo_idx) > 0) {
 
 	Z <- cbind(unlist(drugB$viability[which(drugB$concentration %in% rownames(Z_tmp))]), Z_tmp)
 	Z <- rbind(c(0, drugA$viability[which(drugA$concentration %in% colnames(Z_tmp))]), Z)
+	Z <- (100-Z)/100
 
 	colnames(Z) <- c(0, combo_A_concentration)
 	rownames(Z) <- c(0, combo_B_concentration)

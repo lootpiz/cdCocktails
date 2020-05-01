@@ -16,6 +16,7 @@ if(length(combo_idx) > 0) {
 	combo_mat <- combo[combo_idx,]
 	Z <- array(c(100, as.numeric(combo_mat$drugB_viability), as.numeric(combo_mat$drugA_viability),
 		as.numeric(combo_mat$viability)), dim=c(2,2))
+	Z <- Z/100
 	colnames(Z) <- c("0", as.character(combo_mat$concentrationA))
 	rownames(Z) <- c("0", as.character(combo_mat$concentrationB))
 
@@ -23,7 +24,7 @@ if(length(combo_idx) > 0) {
 	combo_row_concentration <- rownames(Z)
 
 	meta <- data.frame(drug.col = idDrugA, drug.row = idDrugB, concUnit = "nanoM", blockIDs = 1)
-	data <- list(dose.response.mats = list(block=(Z/100)), drug.pairs = meta) # Inhibition rate!
+	data <- list(dose.response.mats = list(block=Z), drug.pairs = meta) # Inhibition rate!
 	data
 
 	bliss_score <- NA; bliss_mat <- NA

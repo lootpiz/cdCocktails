@@ -59,6 +59,7 @@ if(length(combo_idx) > 0) {
 
 	Z <- cbind(unlist(drugB$viability), Z_tmp)
 	Z <- rbind(c(100, drugA$viability[which(drugA$concentration == colnames(Z_tmp))]), Z)
+	Z <- Z/100
 
 	colnames(Z) <- c(0, combo_A_concentration)
 	rownames(Z) <- c(0, combo_B_concentration)
@@ -67,7 +68,7 @@ if(length(combo_idx) > 0) {
 	combo_row_concentration <- rownames(Z)
 
 	meta <- data.frame(drug.col = idDrugA, drug.row = idDrugB, concUnit = "microM", blockIDs = 1)
-	data <- list(dose.response.mats = list(block=(Z/100)), drug.pairs = meta)
+	data <- list(dose.response.mats = list(block=(Z)), drug.pairs = meta)
 
 	bliss_score <- NA; bliss_mat <- NA
 	loewe_score <- NA; loewe_mat <- NA
