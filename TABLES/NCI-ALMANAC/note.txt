@@ -1,0 +1,13 @@
+Unable to upload on GitHub.
+/*
+total 1808912
+drwxr-xr-x  9 lootpiz  staff   288B May  4 10:34 .
+drwx------@ 9 lootpiz  staff   288B May  4 10:34 ..
+-rwxr-x---  1 lootpiz  staff   155M Apr 30 10:15 tbl.almanac.bliss.txt
+-rwxr-x---  1 lootpiz  staff    11M Apr 30 10:15 tbl.almanac.combo_summary.txt
+-rwxr-x---  1 lootpiz  staff    82M Apr  9 15:39 tbl.almanac.comboscore.txt
+-rwxr-x---  1 lootpiz  staff   148M Apr 30 10:15 tbl.almanac.hsa.txt
+-rwxr-x---  1 lootpiz  staff   166M Apr 30 10:15 tbl.almanac.loewe.txt
+-rwxr-x---@ 1 lootpiz  staff   155M Apr 30 10:15 tbl.almanac.raw.txt
+-rwxr-x---  1 lootpiz  staff   165M Apr 30 10:15 tbl.almanac.zip.txt
+*/
